@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+</head>
+
+<body background="img/background2.jpg" class="textos">
+	  <div class="barra" style="display: inline">
+        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
+      <ul>
+        <li style="margin: -18% 2% 0 0; font-size: 24px" class="toggle-nav" href="#">&#9776; <!--class="fa fa-bars"--></li>
+      </ul>
+    </div>
+
+    <nav class="menu" style="float: right;">
+      <table class="active">
+        <tr>
+          <td><a href="introduçao.html">Introdução</a></td>
+        </tr>
+        <tr>
+          <td><a href="ecossistema.html">Ecossistema</a></td>
+        </tr>
+        <tr>
+          <td><a href="energia.html">Fluxo de energia</a></td>
+        </tr>
+        <tr>
+          <td><a href="cadeia.html">Cadeia e Teia alimentar</a></td>
+        </tr>
+        <tr>
+          <td><a href="piramides.html">Pirâmides ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="ciclos.html">Ciclos biogeoquímicos</a></td>
+        </tr>
+        <tr>
+          <td><a href="relaçoes.html">Relações ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="sucessao.html">Sucessão ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="biomas.html">Biomas</a></td>
+        </tr>
+        <tr>
+          <td><a href="desequilibrios.html">Desequilíbrios ambientais</a></td>
+        </tr>
+        <tr>
+          <td><a href="exercicios.html">Exercícios</a></td>
+        </tr>
+      </table>
+     </nav>
+
+    <script type="text/javascript">
+      jQuery(document).ready(function() {
+        jQuery('.toggle-nav').click(function(e) {
+          jQuery(this).toggleClass('active');
+          jQuery('.menu table').toggleClass('active');
+ 
+        e.preventDefault();
+        });
+      });
+    </script>
+
+    <br>
+    <br>
+    <br>
+  	<h2>FLUXO DE ENERGIA E CICLO DA MATÉRIA</h2>
+
+    <table border=1>
+    <tbody style="position: center">
+     <tr style="text-align:center">
+     <td colspan=2>Luz ➙ Matéria (Orgânica/Inorgânica) ➙ Calor</td>   
+     </tr>       
+    </tbody>
+    </table>
+
+    <p>A transferência de energia em uma cadeia alimentar é unidirecional, iniciando-se com a captação da energia luminosa pelos produtores e terminando com a ação dos decompositores. A medida em que a energia flui, a matéria circula.</p>
+    <p>A vida na Terra depende da energia que provém do Sol. Os ecossistemas são, portanto, unidades biológicas mantidas a luz solar. Essa energia luminosa é captada por algas, plantas e bactérias fotossintetizantes e é utilizada na produção de substancias orgânicas; nelas, a energia fica armazenada na forma potencial química. Em cada um dos níveis tróficos, parte da energia armazenada nas moléculas orgânicas é empregada para a realização de trabalho e liberada na forma de calor.</p>
+    <img src="img/fluxo.png" class="imagens">
+    <p>Nos ecossistemas, a quantidade de energia disponível diminui à medida que vai sendo transferida de um nível trófico para outro. Por exemplo:</p>
+    <p>Os peixes que comem os caramujos recebem deles muito menos energia do que aquela que o caramujo havia recebido da planta, e assim por diante. Isso ocorre porque grande parte das substancias orgânicas que a planta fabrica durante sua vida é consumida na sua própria respiração, que fornece a energia para mantê-la viva.</p>
+    <p>Além disso, parte da energia, ou matéria, existente nas plantas é perdida pela morte ou por excreção. Assim, a energia das plantas disponíveis para a nutrição do caramujo contém apenas uma pequena parte das substancias que elas produziram durante sua vida.</p>
+    <p>O mesmo vale para os peixes carnívoros, ainda no raciocínio do mesmo exemplo, para eles sobra apenas a energia contida no caramujo naquele instante em que são predados por eles.</p>
+    <p>De modo geral, considera-se que cada elo da cadeia recebe aproximadamente 10% da energia que o elo anterior recebeu:
+
+    <table border=1>
+    <tbody style="position: center">
+     <tr style="text-align:center">
+     <td colspan=2>Planta (15 kcal) ➙ Gafanhoto (1,5 kcal) ➙ Rato (0,15 kcal) ➙ Cobra (0,015 kcal)</td>   
+     </tr>       
+    </tbody>
+    </table>
+
+    <p>Isso nos permite compreender por que uma cadeia alimentar não tem mais de quatro ou cinco elos. Quanto mais curta for a cadeia, maior será a quantidade de energia disponível para os níveis tróficos mais elevados.</p>
+
+	
+</body>
+</html>

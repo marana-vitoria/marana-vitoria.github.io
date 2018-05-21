@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+</head>
+
+<body background="img/background2.jpg" class="textos">
+	<div class="barra" style="display: inline">
+        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
+      <ul>
+        <li style="margin: -18% 2% 0 0; font-size: 24px" class="toggle-nav" href="#">&#9776; <!--class="fa fa-bars"--></li>
+      </ul>
+    </div>
+
+    <nav class="menu" style="float: right;">
+      <table class="active">
+        <tr>
+          <td><a href="introduçao.html">Introdução</a></td>
+        </tr>
+        <tr>
+          <td><a href="ecossistema.html">Ecossistema</a></td>
+        </tr>
+        <tr>
+          <td><a href="energia.html">Fluxo de energia</a></td>
+        </tr>
+        <tr>
+          <td><a href="cadeia.html">Cadeia e Teia alimentar</a></td>
+        </tr>
+        <tr>
+          <td><a href="piramides.html">Pirâmides ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="ciclos.html">Ciclos biogeoquímicos</a></td>
+        </tr>
+        <tr>
+          <td><a href="relaçoes.html">Relações ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="sucessao.html">Sucessão ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="biomas.html">Biomas</a></td>
+        </tr>
+        <tr>
+          <td><a href="desequilibrios.html">Desequilíbrios ambientais</a></td>
+        </tr>
+        <tr>
+          <td><a href="exercicios.html">Exercícios</a></td>
+        </tr>
+      </table>
+     </nav>
+
+    <script type="text/javascript">
+      jQuery(document).ready(function() {
+        jQuery('.toggle-nav').click(function(e) {
+          jQuery(this).toggleClass('active');
+          jQuery('.menu table').toggleClass('active');
+ 
+        e.preventDefault();
+        });
+      });
+    </script>
+
+    <br>
+    <br>
+    <br>
+  	<h2>CADEIA E TEIA ALIMENTAR</h2>
+	<p>Cadeia alimentar ou cadeia trófica é a sequência linear de organismos, em que um serve de alimento para o outro. Cada elo da cadeia alimentar constitui um nível trófico, que é a posição do organismo na cadeia.</p>
+    <img src="img/cadeia.jpg" class="imagens">
+    <p>O primeiro é formado pelos produtores, organismos autótrofos, pois são quem produz a matéria orgânica que alimentará os demais componentes, utilizando para isso energia luminosa (fotossintetizantes) ou energia química (quimiossintetizantes). Tirando os produtores, consumidores e decompositores são todos heterótrofos.</p>
+    <p>Os seres que se alimentam diretamente dos produtores são herbívoros, e constituem o segundo nível trófico como consumidores primários; os seres que se alimentam dos herbívoros são os consumidores secundários, formando o terceiro nível trófico e assim por diante. Com exceção dos consumidores primários, os demais consumidores são carnívoros ou onívoros.</p>
+    <p>Ao morrer, produtores e consumidores de todos os níveis tróficos servem de alimento a certos fungos e bactérias, denominados decompositores. Estes decompõem a matéria orgânica, utilizando como alimento e liberando para o meio ambiente minerais e outras substâncias que podem ser utilizadas novamente pelos produtores.</p>
+    <p>Nos ecossistemas, as relações alimentares entre os organismos de uma comunidade são muito complexas, com um mesmo organismo participando de diversas cadeias alimentares, até mesmo em níveis tróficos diferentes. </p>
+    <p>É o caso da espécie humana que é onívora, e pode aparecer como consumidor primário em um caso, e de consumidor secundário ou terciário em um segundo caso. Essas relações alimentares entre os diversos organismos costumam ser representadas por teias alimentares.</p>
+    <img src="img/cadeia2.png" class="imagens">
+    <p>Em ecossistemas aquáticos os produtores são seres microscópicos, que constituem o fitoplâncton. Os consumidores primários são principalmente protozoários, pequenos crustáceos, vermes, moluscos e larvas de diversas espécies, constituindo o zooplâncton, e certas espécies de peixe. Os consumidores secundários e terciários são principalmente os peixes. </p>
+
+
+</body>
+</html>

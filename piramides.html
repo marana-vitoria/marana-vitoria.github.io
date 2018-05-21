@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+</head>
+
+<body background="img/background2.jpg" class="textos">
+	<div class="barra" style="display: inline">
+        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
+      <ul>
+        <li style="margin: -18% 2% 0 0; font-size: 24px" class="toggle-nav" href="#">&#9776; <!--class="fa fa-bars"--></li>
+      </ul>
+    </div>
+
+    <nav class="menu" style="float: right;">
+      <table class="active">
+        <tr>
+          <td><a href="introduçao.html">Introdução</a></td>
+        </tr>
+        <tr>
+          <td><a href="ecossistema.html">Ecossistema</a></td>
+        </tr>
+        <tr>
+          <td><a href="energia.html">Fluxo de energia</a></td>
+        </tr>
+        <tr>
+          <td><a href="cadeia.html">Cadeia e Teia alimentar</a></td>
+        </tr>
+        <tr>
+          <td><a href="piramides.html">Pirâmides ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="ciclos.html">Ciclos biogeoquímicos</a></td>
+        </tr>
+        <tr>
+          <td><a href="relaçoes.html">Relações ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="sucessao.html">Sucessão ecológicas</a></td>
+        </tr>
+        <tr>
+          <td><a href="biomas.html">Biomas</a></td>
+        </tr>
+        <tr>
+          <td><a href="desequilibrios.html">Desequilíbrios ambientais</a></td>
+        </tr>
+        <tr>
+          <td><a href="exercicios.html">Exercícios</a></td>
+        </tr>
+      </table>
+     </nav>
+
+    <script type="text/javascript">
+      jQuery(document).ready(function() {
+        jQuery('.toggle-nav').click(function(e) {
+          jQuery(this).toggleClass('active');
+          jQuery('.menu table').toggleClass('active');
+ 
+        e.preventDefault();
+        });
+      });
+    </script>
+
+    <br>
+    <br>
+    <br>
+  	<h2>PIRÂMIDES ECOLÓGICAS</h2>
+    <p>Em uma teia alimentar, a relação entre os diferentes níveis trófico são representadas por gráficos que lembram pirâmides, pelo fato de haver uma redução da quantidade da matéria e de energia em cada nível trófico. São as chamadas pirâmides ecológicas, existentes em três tipos: </p>
+    <ul>
+      <li>De número: Indica a quantidade de indivíduos existentes em cada nível trófico;</li>
+      <li>De energia: Indica quantidade de energia acumulada em cada nível trófico;</li>
+      <li>De biomassa: A largura de cada nível indica a quantidade de matéria orgânica disponível para o próximo nível trófico.</li>
+    </ul>
+    <br>
+    <h3>Pirâmide de número</h3>
+    <p>Dependendo do ecossistema, pode ter o ápice para cima (pirâmide comum) ou para baixo (pirâmide invertida). No primeiro caso, é necessário um grande número de produtores para alimentar poucos herbívoros, que servirão de alimento para um número ainda menor de carnívoros. </p>
+    <img src="img/Pir_numero1.png" class="imagens">
+    <p>O segundo caso, totalmente invertida, ocorre apenas em certas redes alimentares parasitas.</p> 
+    <img src="img/Pir_numero2.png" class="imagens">
+    <p>Em um terceiro caso, pode ser invertida apenas entre os níveis dos produtores e dos consumidores primários.</p>
+    <img src="img/Pir_numero3.png" class="imagens">
+    <br>
+    <h3>Pirâmide de biomassa</h3>
+    <p>A biomassa é a massa total de matéria orgânica presente na unidade ecológica a que se refere (um ecossistema, nesse caso). Também pode ser descrita por valores em relação a uma certa área (ou um volume) onde está presente. </p>
+    <p>De modo geral, a biomassa dos produtores é maior que a dos herbívoros, que é maior que a dos carnívoros (pirâmide comum). Isso ocorre nos ecossistemas terrestres. </p>
+    <img src="img/Pir_biomassat.png" class="imagens">
+    <p>Apresenta se invertida quando consideramos ecossistemas aquáticos. Nesse caso, os produtores são representados por algas microscópicas com ciclo de vida curto, e de aproveitamento rápido pelo zooplâncton.</p> 
+    <img src="img/Pir_biomassaa.png" class="imagens">
+    <p>Deve-se lembrar: a medida da biomassa é feita para um determinado instante e, devido à alta taxa de reprodução do fitoplâncton em relação ao zooplâncton, e o rápido consumo, obtêm-se uma biomassa de produtores menor que a de consumidores de primeira ordem. </p>
+    <br>
+    <h3>Pirâmide de energia</h3>
+    <p>Sempre apresenta seu ápice voltado para cima, pois o fluxo de energia é unidirecional e decrescente.</p>
+    <p>O primeiro nível corresponde à matéria orgânica produzida pelos autótrofos de um ecossistema em um determinado tempo. Chamamos de produtividade primária bruta (PPB) e parte desta é usada no metabolismo da própria planta, na respiração celular, de forma que a matéria orgânica não utilizada é disponibilizada aos demais níveis tróficos. Essa matéria orgânica acumulada é chamada de produtividade primária liquida (PPL = PPB - Respiração). </p>
+    <p>Os consumidores primários, além de não consumirem toda a biomassa dos produtores, não aproveitam grande parte da que foi ingerida. A produtividade secundaria liquida (PSL) é a quantidade de energia que o herbívoro conseguiu absorver dos alimentos, já subtraído o valor que é utilizado para a manutenção de seu metabolismo.</p>
+    <img src="img/Pir_energia.png" class="imagens">
+
+	
+</body>
+</html>
