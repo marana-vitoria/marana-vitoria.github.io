@@ -1,103 +1,107 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="utf-8">
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="msapplication-tap-highlight" content="no" />
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
-    <link rel="stylesheet" type="text/css" href="css/index.css" />
-    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
-</head>
+<html>
+<title>Ecologia já!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-safety.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-quarter img{margin-bottom: -6px; cursor: pointer}
+.w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
+</style>
+<body style="background-image: url(img/Bg3.jpg);" class="w3-mobile">
 
-<body background="img/background2.jpg" class="textos">
-	  <div class="barra" style="display: inline">
-        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
-      <ul>
-        <li style="margin: -18% 2% 0 0; font-size: 24px" class="toggle-nav" href="#">&#9776; <!--class="fa fa-bars"--></li>
-      </ul>
-    </div>
+<!-- MENU ABERTO -->
+<nav class="w3-sidebar w3-bar-block w3-safety-green w3-animate-right w3-top w3-text-light-grey w3-large" style="z-index:3;width:250px;font-weight:bold;display:none;right:0;" id="mySidebar">
+  <a href="javascript:void()" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-30"> > </a> 
+  <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-15">INTRODUÇÃO</a>
+  <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">ECOSSISTEMAS</a> 
+  <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">FLUXO DE ENERGIA</a> 
+  <a href="cadeia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CADEIA E TEIA ALIMENTAR</a> 
+  <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">PIRÂMIDES ECOLÓGICAS</a> 
+  <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CICLOS BIOGEOQUÍMICOS</a>
+  <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">RELAÇÕES ECOLÓGICAS</a> 
+  <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">SUCESSÃO ECOLÓGICA</a> 
+  <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">BIOMAS</a> 
+  <a href="desequilibrios.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">DESEQUILÍBRIOS AMBIENTAIS</a> 
+  <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">QUIZ</a>  
+</nav>
 
-    <nav class="menu" style="float: right;">
-      <table class="active">
-        <tr>
-          <td><a href="introduçao.html">Introdução</a></td>
-        </tr>
-        <tr>
-          <td><a href="ecossistema.html">Ecossistema</a></td>
-        </tr>
-        <tr>
-          <td><a href="energia.html">Fluxo de energia</a></td>
-        </tr>
-        <tr>
-          <td><a href="cadeia.html">Cadeia e Teia alimentar</a></td>
-        </tr>
-        <tr>
-          <td><a href="piramides.html">Pirâmides ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="ciclos.html">Ciclos biogeoquímicos</a></td>
-        </tr>
-        <tr>
-          <td><a href="relaçoes.html">Relações ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="sucessao.html">Sucessão ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="biomas.html">Biomas</a></td>
-        </tr>
-        <tr>
-          <td><a href="desequilibrios.html">Desequilíbrios ambientais</a></td>
-        </tr>
-        <tr>
-          <td><a href="exercicios.html">Exercícios</a></td>
-        </tr>
+<!-- BARRA NO MOBILE -->
+<header class="w3-container w3-top w3-safety-green w3-xlarge w3-padding-15">
+  <span class="w3-left w3-padding">ECOLOGIA JÁ</span>
+  <a href="javascript:void(0)" class="w3-right w3-button w3-safety-green" onclick="w3_open()">☰</a>
+</header>
+
+<!-- EFEITO DE SOBREPOSIÇÃO DO MENU ABERTO -->
+<div class="w3-overlay w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- CONTEÚDO DA PÁGINA -->
+<div class="w3-main w3-content" style="max-width:1600px;margin-top:50px">
+
+  <!-- About section -->
+  <div class="w3-container w3-center w3-text-black w3-padding-32" id="about">
+    <h3><b>Fluxo de energia e ciclo da matéria</b></h3> <br>
+    <div class="w3-content w3-justify" style="max-width:600px"> <br>
+      <table border=1>
+      <tbody style="position: center">
+        <tr style="text-align:center">
+        <td colspan=2>Luz ➙ Matéria (Orgânica/Inorgânica) ➙ Calor</td>   
+        </tr>       
+      </tbody>
       </table>
-     </nav>
-
-    <script type="text/javascript">
-      jQuery(document).ready(function() {
-        jQuery('.toggle-nav').click(function(e) {
-          jQuery(this).toggleClass('active');
-          jQuery('.menu table').toggleClass('active');
- 
-        e.preventDefault();
-        });
-      });
-    </script>
-
-    <br>
-    <br>
-    <br>
-  	<h2>FLUXO DE ENERGIA E CICLO DA MATÉRIA</h2>
-
-    <table border=1>
-    <tbody style="position: center">
-     <tr style="text-align:center">
-     <td colspan=2>Luz ➙ Matéria (Orgânica/Inorgânica) ➙ Calor</td>   
-     </tr>       
-    </tbody>
-    </table>
 
     <p>A transferência de energia em uma cadeia alimentar é unidirecional, iniciando-se com a captação da energia luminosa pelos produtores e terminando com a ação dos decompositores. A medida em que a energia flui, a matéria circula.</p>
     <p>A vida na Terra depende da energia que provém do Sol. Os ecossistemas são, portanto, unidades biológicas mantidas a luz solar. Essa energia luminosa é captada por algas, plantas e bactérias fotossintetizantes e é utilizada na produção de substancias orgânicas; nelas, a energia fica armazenada na forma potencial química. Em cada um dos níveis tróficos, parte da energia armazenada nas moléculas orgânicas é empregada para a realização de trabalho e liberada na forma de calor.</p>
-    <img src="img/fluxo.png" class="imagens">
+    <img src="img/fluxo.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <p>Nos ecossistemas, a quantidade de energia disponível diminui à medida que vai sendo transferida de um nível trófico para outro. Por exemplo:</p>
     <p>Os peixes que comem os caramujos recebem deles muito menos energia do que aquela que o caramujo havia recebido da planta, e assim por diante. Isso ocorre porque grande parte das substancias orgânicas que a planta fabrica durante sua vida é consumida na sua própria respiração, que fornece a energia para mantê-la viva.</p>
     <p>Além disso, parte da energia, ou matéria, existente nas plantas é perdida pela morte ou por excreção. Assim, a energia das plantas disponíveis para a nutrição do caramujo contém apenas uma pequena parte das substancias que elas produziram durante sua vida.</p>
     <p>O mesmo vale para os peixes carnívoros, ainda no raciocínio do mesmo exemplo, para eles sobra apenas a energia contida no caramujo naquele instante em que são predados por eles.</p>
     <p>De modo geral, considera-se que cada elo da cadeia recebe aproximadamente 10% da energia que o elo anterior recebeu:
 
-    <table border=1>
-    <tbody style="position: center">
-     <tr style="text-align:center">
-     <td colspan=2>Planta (15 kcal) ➙ Gafanhoto (1,5 kcal) ➙ Rato (0,15 kcal) ➙ Cobra (0,015 kcal)</td>   
-     </tr>       
-    </tbody>
-    </table>
+      <table border=1>
+      <tbody style="position: center">
+       <tr style="text-align:center">
+       <td colspan=2>Planta (15 kcal) ➙ Gafanhoto (1,5 kcal) ➙ Rato (0,15 kcal) ➙ Cobra (0,015 kcal)</td>   
+       </tr>       
+      </tbody>
+      </table>
 
     <p>Isso nos permite compreender por que uma cadeia alimentar não tem mais de quatro ou cinco elos. Quanto mais curta for a cadeia, maior será a quantidade de energia disponível para os níveis tróficos mais elevados.</p>
+      
+      <hr class="w3-opacity">
 
-	
+      
+      <a href="#" onclick="w3_close()" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> Próximo assunto</a>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script>
+
+
 </body>
 </html>
