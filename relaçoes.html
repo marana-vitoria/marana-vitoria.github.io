@@ -1,21 +1,50 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="utf-8">
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="msapplication-tap-highlight" content="no" />
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
-    <link rel="stylesheet" type="text/css" href="marana-vitoria.github.io/css/index.css" />
-</head>
+<html>
+<title>Ecologia já!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-safety.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-quarter img{margin-bottom: -6px; cursor: pointer}
+.w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
+</style>
+<body style="background-image: url(img/Bg3.jpg);" class="w3-mobile">
 
-<body background="img/background2.jpg" class="textos">
-	<div class="barra">
-        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
-    </div>
-    <br>
-    <br>
-    <br>
-  	<h2>RELAÇÕES ECOLÓGICAS</h2>
+<!-- MENU ABERTO -->
+<nav class="w3-sidebar w3-bar-block w3-safety-green w3-animate-right w3-top w3-text-light-grey w3-large" style="z-index:3;width:250px;font-weight:bold;display:none;right:0;" id="mySidebar">
+  <a href="javascript:void()" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-30"> > </a> 
+  <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-15">INTRODUÇÃO</a>
+  <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">ECOSSISTEMAS</a> 
+  <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">FLUXO DE ENERGIA</a> 
+  <a href="cadeia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CADEIA E TEIA ALIMENTAR</a> 
+  <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">PIRÂMIDES ECOLÓGICAS</a> 
+  <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CICLOS BIOGEOQUÍMICOS</a>
+  <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">RELAÇÕES ECOLÓGICAS</a> 
+  <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">SUCESSÃO ECOLÓGICA</a> 
+  <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">BIOMAS</a> 
+  <a href="desequilibrios.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">DESEQUILÍBRIOS AMBIENTAIS</a> 
+  <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">QUIZ</a>  
+</nav>
+
+<!-- BARRA NO MOBILE -->
+<header class="w3-container w3-top w3-safety-green w3-xlarge w3-padding-15">
+  <span class="w3-left w3-padding">ECOLOGIA JÁ</span>
+  <a href="javascript:void(0)" class="w3-right w3-button w3-safety-green" onclick="w3_open()">☰</a>
+</header>
+
+<!-- EFEITO DE SOBREPOSIÇÃO DO MENU ABERTO -->
+<div class="w3-overlay w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- CONTEÚDO DA PÁGINA -->
+<div class="w3-main w3-content" style="max-width:1600px;margin-top:50px">
+
+  <!-- About section -->
+  <div class="w3-container w3-center w3-text-black w3-padding-32" id="about">
+    <h3><b>Relações ecológicas</b></h3> <br>
+    <div class="w3-content w3-justify" style="max-width:600px">
     <p>São relações que ocorrem entre indivíduos de uma comunidade. São divididas em relação intraespecífica, entre indivíduos da mesma espécie, e relação interespecífica, entre indivíduos de espécies diferentes.</p>
     <br>
     <h3>Intraespecíficas</h3> 
@@ -62,6 +91,37 @@
       </ul>
     </li>
     </ul>
-	
+      
+      <hr class="w3-opacity">
+
+      
+      <a href="#" onclick="w3_close()" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> Próximo assunto</a>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script>
+
+
 </body>
 </html>
