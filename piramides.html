@@ -1,75 +1,50 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="utf-8">
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="msapplication-tap-highlight" content="no" />
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
-    <link rel="stylesheet" type="text/css" href="marana-vitoria.github.io/css/index.css" />
-    <script type="text/javascript" src="marana-vitoria.github.io/js/jquery-3.2.1.js"></script>
-</head>
+<html>
+<title>Ecologia já!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-safety.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-quarter img{margin-bottom: -6px; cursor: pointer}
+.w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
+</style>
+<body style="background-image: url(img/Bg3.jpg);" class="w3-mobile">
 
-<body background="img/background2.jpg" class="textos">
-	<div class="barra" style="display: inline">
-        <p class="nome" style="margin-top: 4%">ECOLOGIA JÁ</p>
-      <ul>
-        <li style="margin: -18% 2% 0 0; font-size: 24px" class="toggle-nav" href="#">&#9776; <!--class="fa fa-bars"--></li>
-      </ul>
-    </div>
+<!-- MENU ABERTO -->
+<nav class="w3-sidebar w3-bar-block w3-safety-green w3-animate-right w3-top w3-text-light-grey w3-large" style="z-index:3;width:250px;font-weight:bold;display:none;right:0;" id="mySidebar">
+  <a href="javascript:void()" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-30"> > </a> 
+  <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-15">INTRODUÇÃO</a>
+  <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">ECOSSISTEMAS</a> 
+  <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">FLUXO DE ENERGIA</a> 
+  <a href="cadeia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CADEIA E TEIA ALIMENTAR</a> 
+  <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">PIRÂMIDES ECOLÓGICAS</a> 
+  <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CICLOS BIOGEOQUÍMICOS</a>
+  <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">RELAÇÕES ECOLÓGICAS</a> 
+  <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">SUCESSÃO ECOLÓGICA</a> 
+  <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">BIOMAS</a> 
+  <a href="desequilibrios.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">DESEQUILÍBRIOS AMBIENTAIS</a> 
+  <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">QUIZ</a>  
+</nav>
 
-    <nav class="menu" style="float: right;">
-      <table class="active">
-        <tr>
-          <td><a href="introduçao.html">Introdução</a></td>
-        </tr>
-        <tr>
-          <td><a href="ecossistema.html">Ecossistema</a></td>
-        </tr>
-        <tr>
-          <td><a href="energia.html">Fluxo de energia</a></td>
-        </tr>
-        <tr>
-          <td><a href="cadeia.html">Cadeia e Teia alimentar</a></td>
-        </tr>
-        <tr>
-          <td><a href="piramides.html">Pirâmides ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="ciclos.html">Ciclos biogeoquímicos</a></td>
-        </tr>
-        <tr>
-          <td><a href="relaçoes.html">Relações ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="sucessao.html">Sucessão ecológicas</a></td>
-        </tr>
-        <tr>
-          <td><a href="biomas.html">Biomas</a></td>
-        </tr>
-        <tr>
-          <td><a href="desequilibrios.html">Desequilíbrios ambientais</a></td>
-        </tr>
-        <tr>
-          <td><a href="exercicios.html">Exercícios</a></td>
-        </tr>
-      </table>
-     </nav>
+<!-- BARRA NO MOBILE -->
+<header class="w3-container w3-top w3-safety-green w3-xlarge w3-padding-15">
+  <span class="w3-left w3-padding">ECOLOGIA JÁ</span>
+  <a href="javascript:void(0)" class="w3-right w3-button w3-safety-green" onclick="w3_open()">☰</a>
+</header>
 
-    <script type="text/javascript">
-      jQuery(document).ready(function() {
-        jQuery('.toggle-nav').click(function(e) {
-          jQuery(this).toggleClass('active');
-          jQuery('.menu table').toggleClass('active');
- 
-        e.preventDefault();
-        });
-      });
-    </script>
+<!-- EFEITO DE SOBREPOSIÇÃO DO MENU ABERTO -->
+<div class="w3-overlay w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
-    <br>
-    <br>
-    <br>
-  	<h2>PIRÂMIDES ECOLÓGICAS</h2>
+<!-- CONTEÚDO DA PÁGINA -->
+<div class="w3-main w3-content" style="max-width:1600px;margin-top:50px">
+
+  <!-- About section -->
+  <div class="w3-container w3-center w3-text-black w3-padding-32" id="about">
+    <h3><b>Pirâmides ecológicas</b></h3> <br>
+    <div class="w3-content w3-justify" style="max-width:600px">
     <p>Em uma teia alimentar, a relação entre os diferentes níveis trófico são representadas por gráficos que lembram pirâmides, pelo fato de haver uma redução da quantidade da matéria e de energia em cada nível trófico. São as chamadas pirâmides ecológicas, existentes em três tipos: </p>
     <ul>
       <li>De número: Indica a quantidade de indivíduos existentes em cada nível trófico;</li>
@@ -79,26 +54,56 @@
     <br>
     <h3>Pirâmide de número</h3>
     <p>Dependendo do ecossistema, pode ter o ápice para cima (pirâmide comum) ou para baixo (pirâmide invertida). No primeiro caso, é necessário um grande número de produtores para alimentar poucos herbívoros, que servirão de alimento para um número ainda menor de carnívoros. </p>
-    <img src="img/Pir_numero1.png" class="imagens">
+    <img src="img/Pir_numero1.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <p>O segundo caso, totalmente invertida, ocorre apenas em certas redes alimentares parasitas.</p> 
-    <img src="img/Pir_numero2.png" class="imagens">
+    <img src="img/Pir_numero2.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <p>Em um terceiro caso, pode ser invertida apenas entre os níveis dos produtores e dos consumidores primários.</p>
-    <img src="img/Pir_numero3.png" class="imagens">
+    <img src="img/Pir_numero3.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <br>
     <h3>Pirâmide de biomassa</h3>
     <p>A biomassa é a massa total de matéria orgânica presente na unidade ecológica a que se refere (um ecossistema, nesse caso). Também pode ser descrita por valores em relação a uma certa área (ou um volume) onde está presente. </p>
     <p>De modo geral, a biomassa dos produtores é maior que a dos herbívoros, que é maior que a dos carnívoros (pirâmide comum). Isso ocorre nos ecossistemas terrestres. </p>
-    <img src="img/Pir_biomassat.png" class="imagens">
+    <img src="img/Pir_biomassat.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <p>Apresenta se invertida quando consideramos ecossistemas aquáticos. Nesse caso, os produtores são representados por algas microscópicas com ciclo de vida curto, e de aproveitamento rápido pelo zooplâncton.</p> 
-    <img src="img/Pir_biomassaa.png" class="imagens">
+    <img src="img/Pir_biomassaa.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
     <p>Deve-se lembrar: a medida da biomassa é feita para um determinado instante e, devido à alta taxa de reprodução do fitoplâncton em relação ao zooplâncton, e o rápido consumo, obtêm-se uma biomassa de produtores menor que a de consumidores de primeira ordem. </p>
     <br>
     <h3>Pirâmide de energia</h3>
     <p>Sempre apresenta seu ápice voltado para cima, pois o fluxo de energia é unidirecional e decrescente.</p>
     <p>O primeiro nível corresponde à matéria orgânica produzida pelos autótrofos de um ecossistema em um determinado tempo. Chamamos de produtividade primária bruta (PPB) e parte desta é usada no metabolismo da própria planta, na respiração celular, de forma que a matéria orgânica não utilizada é disponibilizada aos demais níveis tróficos. Essa matéria orgânica acumulada é chamada de produtividade primária liquida (PPL = PPB - Respiração). </p>
     <p>Os consumidores primários, além de não consumirem toda a biomassa dos produtores, não aproveitam grande parte da que foi ingerida. A produtividade secundaria liquida (PSL) é a quantidade de energia que o herbívoro conseguiu absorver dos alimentos, já subtraído o valor que é utilizado para a manutenção de seu metabolismo.</p>
-    <img src="img/Pir_energia.png" class="imagens">
+    <img src="img/Pir_energia.png" class="w3-mobile  w3-display-center" style="max-width: 100%">
+      
+      <hr class="w3-opacity">
 
-	
+      
+      <a href="#" onclick="w3_close()" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> Próximo assunto</a>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+</script>
+
+
 </body>
 </html>
