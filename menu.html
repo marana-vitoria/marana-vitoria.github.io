@@ -27,6 +27,7 @@ body, html {height: 100%}
 .button {
   margin-top: 4%;
   height: 20%;
+  font-weight: bolder;
 }
 
 /* Menu/botões */
@@ -37,28 +38,16 @@ body, html {height: 100%}
 /* Menu sobreposto */
 .menu2 {}
     
-@media only screen and (max-width: 700px) {
-    /**/
-    .img {
-      max-width: 50%;
-    }
-    
-    .menu {
-      width: 85%;
-      position: fixed;
-      bottom: 3%;
-    }
-}
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 540px) {
     /* For mobile phones: */
     .button {
       width: 80%;
-      font-size: 18px;
+      font-size: 17px;
     }
 
     .img{
-      max-width: 70%;
+      min-width: 70%;
     }
 
     .menu {
@@ -68,12 +57,33 @@ body, html {height: 100%}
     }
 
     .menu2 {
-      width: 100%;
-      font-size: 22px;
+      font-size: 15px;
     }
 }
 
-@media only screen and (min-width: 770px) {
+@media only screen and (max-width: 780px) {
+    /* For tablets: */
+    .button {
+      width: 84%;
+      font-size: 17px;
+    }
+
+    .img{
+      max-width: 45%;
+    }
+
+    .menu {
+      width: 90%;
+      position: fixed;
+      bottom: 4%;
+    }
+
+    .menu2 {
+      font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 780px) {
     /* For desktop: */
     .img {
       margin-top: 5%;
@@ -81,6 +91,7 @@ body, html {height: 100%}
 
     .button {
       width: 22%;
+      font-size: 18px;
     }
 
     .menu {
@@ -88,7 +99,7 @@ body, html {height: 100%}
       position: fixed;
       left: 7%;
       right: 7%;
-      bottom: 30%;
+      bottom: 25%;
     }
     
 }
@@ -109,45 +120,73 @@ body, html {height: 100%}
     </div>
   </div>
 
-<!-- Menu Modal 1 -->
+<!-- Apresentação-->
+<div id="video" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-white w3-display-container">
+      <span onclick="document.getElementById('video').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+    </div>
+    <div class="menu2 w3-container w3-safety-green">
+      <div class="w3-container" style=" text-align: ">
+        <p>Assista este vídeo ;) </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Menu Conteúdos -->
 <div id="menu" class="w3-modal">
   <div class="w3-modal-content w3-animate-zoom">
     <div class="w3-container w3-white w3-display-container">
       <span onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
     </div>
     <div class="menu2 w3-container w3-center w3-safety-green">
-      <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-smal">INTRODUÇÃO</a> <br>
-      <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">ECOSSISTEMAS</a> <br>
-      <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">FLUXO DE ENERGIA</a> <br>
-      <a href="cadeia.html" onclick="w3_close()" class="menu2 w3-bar-item w3-button w3-center w3-padding-15">CADEIA E TEIA ALIMENTAR</a> <br>
-      <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">PIRÂMIDES ECOLÓGICAS</a> <br>
-      <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CICLOS BIOGEOQUÍMICOS</a> <br>
-      <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">RELAÇÕES ECOLÓGICAS</a> <br>
-      <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">SUCESSÃO ECOLÓGICA</a> <br>
-      <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">BIOMAS</a> <br>
-      <a href="desequilibrios.html" onclick="w3_close()" class="menu2 w3-bar-item w3-button w3-center w3-padding-15">DESEQUILÍBRIOS AMBIENTAIS</a> <br>
+      <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Introdução</a> <br>
+      <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Ecossistemas</a> <br>
+      <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Fluxo de energia</a> <br>
+      <a href="cadeia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Cadeia e teia alimentar</a> <br>
+      <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Pirâmides ecológicas</a> <br>
+      <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Ciclos biogeoquímicos</a> <br>
+      <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Relações ecológicas</a> <br>
+      <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Sucessão ecológica</a> <br>
+      <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Biomas</a> <br>
+      <a href="desequilibrios.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Desesequilíbrios ambientais</a> <br>
     </div>
   </div>
 </div>
     
-<!-- Menu Modal 2 -->
-<div id="menu" class="w3-modal">
+<!-- Menu Quizes -->
+<div id="quizes" class="w3-modal">
   <div class="w3-modal-content w3-animate-zoom">
     <div class="w3-container w3-white w3-display-container">
-      <span onclick="document.getElementById('fontes').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <span onclick="document.getElementById('quizes').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
     </div>
-    <div class="w3-container w3-center w3-safety-green">
-        <p>
-      <!-- <a href="introduçao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-smal">INTRODUÇÃO</a> <br>
-      <a href="ecossistema.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">ECOSSISTEMAS</a> <br>
-      <a href="energia.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">FLUXO DE ENERGIA</a> <br>
-      <a href="cadeia.html" onclick="w3_close()" class="menu2 w3-bar-item w3-button w3-center w3-padding-15">CADEIA E TEIA ALIMENTAR</a> <br>
-      <a href="piramides.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">PIRÂMIDES ECOLÓGICAS</a> <br>
-      <a href="ciclos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">CICLOS BIOGEOQUÍMICOS</a> <br>
-      <a href="relaçoes.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">RELAÇÕES ECOLÓGICAS</a> <br>
-      <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">SUCESSÃO ECOLÓGICA</a> <br>
-      <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">BIOMAS</a> <br>
-      <a href="desequilibrios.html" onclick="w3_close()" class="menu2 w3-bar-item w3-button w3-center w3-padding-15">DESEQUILÍBRIOS AMBIENTAIS</a> <br>-->
+    <div class="menu2 w3-container w3-center w3-safety-green">
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Introdução</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Ecossistemas</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Fluxo de energia</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Cadeia e teia alimentar</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Pirâmides ecológicas</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Ciclos biogeoquímicos</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Relações ecológicas</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Sucessão ecológica</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Biomas</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Desesequilíbrios ambientais</a> <br>
+      <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-15">Conteúdo completo</a> <br>
+    </div>
+  </div>
+</div>
+
+<!-- Sobre -->
+<div id="video" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-white w3-display-container">
+      <span onclick="document.getElementById('video').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+    </div>
+    <div class="menu2 w3-container w3-safety-green">
+      <div class="w3-container" style=" text-align: ">
+        <p>Assista este vídeo ;) </p>
+      </div>
     </div>
   </div>
 </div>
