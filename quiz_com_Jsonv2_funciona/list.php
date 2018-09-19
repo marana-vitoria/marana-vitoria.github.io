@@ -62,7 +62,7 @@ $result = $db->query($query);
                   					   'answers' => [ $row['answer1'],$row['answer2'],$row['answer3'],$row['answer4'],$row['answer5'] ],
                   					   'correct' => [ 'index' => $row['corret_index'], 
                   					   				  'text' => $row['msg'],   ],
-                  					   'image'=> $image,
+                  					   'image'=> "./img/".$image,
                   					   'number' => $row['numberC'],
                   					   'prompt'=> $prompt,
                   					   
