@@ -31,9 +31,12 @@ html, body {
     text-transform: uppercase;
     font-weight: 400;
 }
+
+/*botão*/
 .quiz-button.btn {
   margin-top: 10px;
-  background-color: #ddd;
+  background-color: #007256;
+  text-color: #fff;
   border-radius: 0;
   text-transform: uppercase;
   white-space: normal !important;
@@ -42,8 +45,8 @@ html, body {
 }
 
 .quiz-button.btn:hover {
-  background-color: #007256;
-  color: #fff;
+  background-color: #ddd;
+  color: #696969;
 }
 
 
@@ -131,6 +134,7 @@ html, body {
  display:table !important; 
 }
 
+/*índices das questões*/
 .progress-circles li{
   list-style: none;
   display: inline-block;
