@@ -5,7 +5,7 @@ body
 	overflow:hidden}
 
 .sweet-overlay{
-	background-color:#000;
+	background-color:#007256 /*#000*/; 
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 	background-color:rgba(0,0,0,.4);
 	position:fixed;
