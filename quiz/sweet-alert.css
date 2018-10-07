@@ -5,7 +5,7 @@ body
 	overflow:hidden}
 
 .sweet-overlay{
-	background-color:#007256 /*#000*/; 
+	background-color:#000; 
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 	background-color:rgba(0,0,0,.4);
 	position:fixed;
@@ -17,7 +17,7 @@ body
 	z-index:10000}
 
 .sweet-alert{
-	background-color: #fff;
+	background-color: #a7dfab /*#fff*/;
 	font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 	width:478px;
 	padding:17px;
