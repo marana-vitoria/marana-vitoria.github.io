@@ -163,7 +163,7 @@ var $indicators = $('<ol>')
         allowEscapeKey : false,
         confirmButtonText: "Proxima questao",
         html : true,
-        confirmButtonColor: "#0096D2"
+        confirmButtonColor: "#007256"
       };
 
       // set options for correct/incorrect
