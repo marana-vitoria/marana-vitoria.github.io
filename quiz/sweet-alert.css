@@ -17,11 +17,12 @@ body
 	z-index:10000}
 
 .sweet-alert{
-	background-color: #cbe7cd /*#fff*/;
+	background-color: #fff;
 	font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
 	width:478px;
 	padding:17px;
 	border-radius:5px;
+	border-color: #cbe7cd;
 	text-align:center;
 	position:fixed;
 	left:50%;
