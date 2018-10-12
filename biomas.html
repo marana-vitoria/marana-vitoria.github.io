@@ -10,10 +10,6 @@
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-quarter img{margin-bottom: -6px; cursor: pointer}
 .w3-quarter img:hover{opacity: 0.6; transition: 0.3s}
-  
-.img {
-  position: center;
-  }
 
 h3 {
   font-weight: bold;
@@ -25,9 +21,17 @@ hr.n {
 
 .esp {}
 
+.esp2 {}
+
 @media only screen and (min-width: 600px) {
   .esp {
     min-width: 550px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .esp2 {
+    min-width: 600px;
   }
 }
 </style>
@@ -48,13 +52,13 @@ font-weight:bold;display:none;right:0;" id="mySidebar">
   <a href="sucessao.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-large">SUCESSÃO ECOLÓGICA</a> 
   <a href="biomas.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-large">BIOMAS</a> 
   <a href="desequilibrios.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-large">DESEQUILÍBRIOS AMBIENTAIS</a> 
-  <a href="quiz/index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-large">QUIZ</a>
+  <a href="quiz/index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-large">QUIZ</a> 
   <a href="menu.html" onclick="w3_close()" class="w3-bar-item w3-button w3-border-bottom w3-border-grey w3-center w3-padding-30"> < </a>
 </nav>
 
 <!-- BARRA NO MOBILE -->
 <header class="w3-container w3-top w3-safety-green w3-xlarge w3-padding-15">
-  <span class="w3-left w3-padding"><a href="menu.html" style="text-decoration: none">ECOLOGIA JÁ</a></span>
+  <span class="w3-left w3-padding">ECOLOGIA JÁ</span>
   <a href="javascript:void(0)" class="w3-right w3-button w3-safety-green" onclick="w3_open()">☰</a>
 </header>
 
@@ -74,7 +78,7 @@ font-weight:bold;display:none;right:0;" id="mySidebar">
     <hr class="n">
 
     <h3>Floresta Amazônica</h3>
-      <img src="img/biomas/amazonia.jpg" style="min-width:600px" class="w3-mobile"><br>
+      <img src="img/biomas/amazonia.jpg" class="w3-mobile esp2"><br>
     <ul>
         <li>Ocupa 60% do território brasileiro correspondentes aos estados do Amazonas, Amapá, Mato Grosso, oeste do Maranhão, Pará, Rondônia, Roraima e Tocantins; os outros 40% do território é distribuído pela Bolívia, Colômbia, Equador, Guiana, Guiana Francesa, Peru, Suriname e Venezuela;</li>
         <li>Formação vegetal arbórea: formada basicamente por arvores;</li>
@@ -105,7 +109,7 @@ font-weight:bold;display:none;right:0;" id="mySidebar">
       <br><hr class="n">
 
     <h3>Pampas</h3>
-      <img src="img/biomas/pampas.jpg" style="min-width:600px" class="w3-mobile"><br>
+      <img src="img/biomas/pampas.jpg" class="w3-mobile esp2"><br>
     <ul>
         <li>Abrange o sul do RG, o leste da Argentina e o território do Uruguai;</li>
         <li>É um tipo de pradaria: formada por gramíneas, plantas rasteiras;</li>
@@ -169,7 +173,7 @@ font-weight:bold;display:none;right:0;" id="mySidebar">
         <li>As atividades econômicas mais importantes são: pesca, pecuária e ecoturismo;</li>
         <li>O carandá é uma espécie exclusiva da região, um tipo de palmeira parecida com a carnaúba que forma bosques conhecidos como carandazais.</li>
     </ul>
-      <center><img src="img/biomas/pantanal mapa.jpg" style="min-width:500px" class="w3-mobile"></center>
+      <center><img src="img/biomas/pantanal mapa.jpg" class="w3-mobile"></center>
       <br><hr class="n">
 
     <h3>Mata dos Cocais</h3>
@@ -216,9 +220,9 @@ font-weight:bold;display:none;right:0;" id="mySidebar">
       
       <div class="w3-center">
         <div class="w3-bar" onclick="w3_close()">
-         <a href="#" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> < </a>
+         <a href="sucessao.html" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> < </a>
          <a href="quiz_biomas/quiz/index.html" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green">Quiz </a>
-         <a href="#" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> > </a>
+         <a href="desequilibrios.html" class="w3-button w3-green w3-border w3-border-green w3-padding-15 w3-margin-top w3-margin-bottom w3-hover-green"> > </a>
         </div>
       </div>
         
