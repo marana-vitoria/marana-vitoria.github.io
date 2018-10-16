@@ -1,0 +1,180 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "a decomposi\u00e7\u00e3o da mat\u00e9ria libera os nutrientes que retornam aos ciclos biogeoqu\u00edmicos;",
+                "a decomposi\u00e7\u00e3o da mat\u00e9ria org\u00e2nica \u00e9 um processo muito lento que pode durar s\u00e9culos;",
+                "a decomposi\u00e7\u00e3o da mat\u00e9ria org\u00e2nica n\u00e3o \u00e9 completa devido a grande quantidade de fibras;",
+                "a decomposi\u00e7\u00e3o da mat\u00e9ria libera nutrientes que ficam dispon\u00edveis diretamente aos heter\u00f3trofos;",
+                "a decomposi\u00e7\u00e3o lenta permite que a mat\u00e9ria tenha condi\u00e7\u00f5es de ser fossilizada."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. U.F. Vi\u00e7osa-MG Analise a seguinte cita\u00e7\u00e3o: \u201cA morte n\u00e3o est\u00e1 na natureza das coisas; \u00e9 a natureza das coisas. Mas o que morre \u00e9 a forma. A mat\u00e9ria \u00e9 imortal.\u201d (John Fowles.) Pela an\u00e1lise da cita\u00e7\u00e3o, pode-se concluir que a mat\u00e9ria \u00e9 imortal porque:"
+        },
+        {
+            "answers": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 2,
+            "prompt": "2. FUVEST-SP O esquema acima representa o ciclo do carbono. A utiliza\u00e7\u00e3o do \u00e1lcool como combust\u00edvel de autom\u00f3veis intensifica, principalmente, a passagem representada em"
+        },
+        {
+            "answers": [
+                "ao contr\u00e1rio do que acontece com o c\u00e1lcio, o f\u00f3sforo n\u00e3o tende a se acumular no mar.",
+                "a partir do fosfato, os vegetais sintetizam compostos inorg\u00e2nicos, como os \u00e1cidos nucl\u00e9icos;",
+                "as aves marinhas n\u00e3o desempenham papel importante na restitui\u00e7\u00e3o do f\u00f3sforo marinho para o ambiente terrestre;",
+                "o fosfato \u00e9 levado de volta ao solo atrav\u00e9s da respira\u00e7\u00e3o dos animais;",
+                "ao contr\u00e1rio de ciclos como o da \u00e1gua, o ciclo do f\u00f3sforo n\u00e3o tem envolvimento da atmosfera;"
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 3,
+            "prompt": "3. UFR-RJ Observe o ciclo representado acima. Sobre esse ciclo, pode-se afirmar que:"
+        },
+        {
+            "answers": [
+                "Os heterotr\u00f3ficos adquirem carbono atrav\u00e9s da nutri\u00e7\u00e3o.",
+                "Os produtores fixam o g\u00e1s carb\u00f4nico e utilizam-no na s\u00edntese de compostos org\u00e2nicos.",
+                "Os consumidores perdem carbono somente atrav\u00e9s da respira\u00e7\u00e3o.",
+                "Na atmosfera, o CO atua como poluente e uma vez inspirado passa dos alv\u00e9olos para o sangue, inutilizando a hemoglobina para o transporte de O2 .",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4. UFMT Com as queimadas das florestas, os desmatamentos, a combust\u00e3o de carv\u00e3o e derivados do petr\u00f3leo, est\u00e1-se provocando desequil\u00edbrio no ciclo do carbono. Sobre esse ciclo, \u00e9 INCORRETO afirmar que: "
+        },
+        {
+            "answers": [
+                "as plantas obt\u00eam o nitrog\u00eanio sob a forma de am\u00f4nia ou nitratos e os animais, sob a forma de amino\u00e1cidos;",
+                "as plantas, algas e certas bact\u00e9rias fixam o g\u00e1s carb\u00f4nico por meio da fotoss\u00edntese ou da quimioss\u00edntese;",
+                "o processo de desnitrifica\u00e7\u00e3o ajuda a formar o g\u00e1s carb\u00f4nico, importante barreira natural contra a radia\u00e7\u00e3o ultravioleta;",
+                "o nitrog\u00eanio \u00e9 utilizado para s\u00edntese de prote\u00ednas, \u00e1cidos nucl\u00e9icos e outras subst\u00e2ncias nitrogenadas.",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. Unimontes-MG Os organismos est\u00e3o constantemente retirando da natureza os elementos qu\u00edmicos de que necessitam. Entre eles, o carbono e o nitrog\u00eanio, provenientes do g\u00e1s carb\u00f4nico e do g\u00e1s nitrog\u00eanio, respectivamente. Com base nessa situa\u00e7\u00e3o, \u00e9 incorreto afirmar que:"
+        },
+        {
+            "answers": [
+                "oxig\u00eanio",
+                "carbono",
+                "f\u00f3sforo",
+                "c\u00e1lcio",
+                "nitrog\u00eanio"
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. U.E. Londrina-PR Na regi\u00e3o Norte do Paran\u00e1 muitas \u00e1reas est\u00e3o sendo ocupadas por culturas de milho e de trigo. Essas culturas t\u00eam provocado desgaste do solo. Para evitar esse desgaste, os agricultores adotam o rod\u00edzio de culturas, pr\u00e1tica na qual se alterna o plantio do milho e do trigo com o da soja. Essa pr\u00e1tica agr\u00edcola pode incorporar nutrientes ao solo porque a soja possui em suas ra\u00edzes bact\u00e9rias fixadoras de:"
+        },
+        {
+            "answers": [
+                "As bact\u00e9rias do g\u00eanero Rhizobium desempenham o papel de fixadoras no ciclo do nitrog\u00eanio, por isso a efici\u00eancia das leguminosas em rela\u00e7\u00e3o ao nitrog\u00eanio.",
+                "A rela\u00e7\u00e3o entre leguminosas e bact\u00e9rias \u00e9 um caso de comensalismo.",
+                "Uma vez liberado para o meio, o \u00edon nitrito \u00e9 oxidado tamb\u00e9m por a\u00e7\u00e3o de bact\u00e9rias e transformado em nitrato (NO3 ), sem libera\u00e7\u00e3o de energia.",
+                "Certas bact\u00e9rias e algas azuis que conseguem utilizar N2  atmosf\u00e9rico possuem o DNA circular aderido a uma prega da membrana plasm\u00e1tica que \u00e9 denominada mesossoma.",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. UFMT Na recupera\u00e7\u00e3o de \u00e1reas degradadas por atividades garimpeiras, atrav\u00e9s da vegeta\u00e7\u00e3o, t\u00eam sido utilizadas as leguminosas em fun\u00e7\u00e3o de sua efici\u00eancia na fixa\u00e7\u00e3o do nitrog\u00eanio. Sobre o assunto, analise as afirma\u00e7\u00f5es e marque a alternativa ERRADA."
+        },
+        {
+            "answers": [
+                "os protozo\u00e1rios",
+                "as bact\u00e9rias",
+                "as minhocas",
+                "os anf\u00edbios",
+                "os musgos"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. FATEC-SP O nitrog\u00eanio, t\u00e3o necess\u00e1rio para que os seres vivos sintetizem suas prote\u00ednas, ocorre em grande quantidade na atmosfera (78%), mas n\u00e3o pode ser utilizado diretamente do ar. Para que possa ser absorvido pelas plantas e dessas passar para os animais, o nitrog\u00eanio precisa estar sob a forma de nitrato. Os seres vivos capazes de efetuar essa opera\u00e7\u00e3o de transforma\u00e7\u00e3o do nitrog\u00eanio em nitrato s\u00e3o"
+        },
+        {
+            "answers": [
+                "o uso intensivo da pr\u00e1tica agr\u00edcola das queimadas;",
+                "o aumento das popula\u00e7\u00f5es do fitopl\u00e2ncton;",
+                "a extin\u00e7\u00e3o de diversas esp\u00e9cies de grandes consumidores;",
+                "a diminui\u00e7\u00e3o da incid\u00eancia da luz solar nos meios aqu\u00e1ticos;",
+                "a ocorr\u00eancia de condi\u00e7\u00f5es que favorecem a convers\u00e3o do mon\u00f3xido de carbono em CO2 ."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. U. Salvador-BA \"H\u00e1 bilh\u00f5es de anos, a concentra\u00e7\u00e3o de CO2  na atmosfera terrestre, como se sup\u00f5e atualmente nos planetas V\u00eanus e Marte, estava em cerca de 98%, em contraste com a presen\u00e7a de apenas tra\u00e7os de oxig\u00eanio. Essa taxa elevada do CO2  decaiu atrav\u00e9s dos tempos e estabilizou-se em 0,03%, enquanto o oxig\u00eanio atinge a taxa de 21%, ap\u00f3s bilh\u00f5es de anos de evolu\u00e7\u00e3o da Terra e da vida. Contudo, atualmente, a concentra\u00e7\u00e3o de CO2  vem, sutilmente se elevando na atmosfera terrestre\" O aumento na concentra\u00e7\u00e3o do CO2 , que vem sendo detectado atualmente, tem como causa, entre outras,"
+        },
+        {
+            "answers": [
+                "fotoss\u00edntese e quimioss\u00edntese.",
+                "decomposi\u00e7\u00e3o e queima de combust\u00edveis.",
+                "fotoss\u00edntese e queima de combust\u00edveis.",
+                "fotoss\u00edntese e queima de combust\u00edveis.",
+                "fermenta\u00e7\u00e3o e respira\u00e7\u00e3o."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/3.png",
+            "number": 10,
+            "prompt": "10. FUVEST-SP O ciclo do carbono pode ser resumido no esquema acima: As etapas I e II podem ser, respectivamente"
+        },
+        {
+            "answers": [
+                "Os animais s\u00f3 podem absorver o nitrog\u00eanio quando ele est\u00e1 na composi\u00e7\u00e3o de vegetais na forma de amino\u00e1cidos e prote\u00ednas.",
+                "O homem pode modificar o ciclo do nitrog\u00eanio pela fixa\u00e7\u00e3o industrial desse elemento a partir da atmosfera.",
+                "Os vegetais s\u00f3 podem captar o nitrog\u00eanio atmosf\u00e9rico na forma de nitrato.",
+                "As plantas leguminosas, que abrigam bact\u00e9rias desnitrificantes em suas ra\u00edzes, reduzem o n\u00edvel de nitrog\u00eanio no solo.",
+                "A atmosfera \u00e9 o maior reservat\u00f3rio natural de nitrog\u00eanio."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 11,
+            "prompt": "11. U.E. Ponta Grossa-PR Com rela\u00e7\u00e3o ao ciclo biogeoqu\u00edmico do Nitrog\u00eanio, assinale o que for incorreto."
+        }
+    ]
+}
