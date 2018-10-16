@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "Os heter\u00f3trofos s\u00e3o organismos fotossintetizantes que se utilizam dos aut\u00f3trofos, decompositores e detrit\u00edvoros para sua alimenta\u00e7\u00e3o, reciclando o sistema.",
+                "As plantas constituem a base das cadeias alimentares, s\u00e3o consumidores prim\u00e1rios, que se utilizam de \u00e1gua e sais minerais para produzir tecidos atrav\u00e9s da fotoss\u00edntese.",
+                "Predador de topo \u00e9 o animal que se instala no alto de uma regi\u00e3o, sendo, em geral, um bom ca\u00e7ador, pois possui uma vis\u00e3o privilegiada da \u00e1rea de ca\u00e7a.",
+                "Um passarinho, ao predar uma lagarta de borboleta, \u00e9 considerado um consumidor terci\u00e1rio, pois a planta \u00e9 o prim\u00e1rio e a lagarta o secund\u00e1rio.",
+                "A base das cadeias alimentares \u00e9 formada pelos organismos produtores, seres aut\u00f3trofos, fotossintetizantes, muito abundantes na Terra."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. U.F. Uberl\u00e2ndia-MG Assinale a alternativa correta."
+        },
+        {
+            "answers": [
+                "I",
+                "II",
+                "III",
+                "IV",
+                "V"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 2,
+            "prompt": "2. Mackenzie-SP Considere o esquema acima, que representa uma teia alimentar. I, II, III, IV e V constituem os v\u00e1rios n\u00edveis tr\u00f3ficos. Os fungos podem ocupar todos os n\u00edveis tr\u00f3ficos acima, EXCETO:"
+        },
+        {
+            "answers": [
+                "apenas na cadeia I",
+                "apenas nas cadeias I e III",
+                "apenas na cadeia II",
+                "apenas nas cadeias I e II",
+                "nas cadeias I, II e III"
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 3,
+            "prompt": "3. VUNESP Considere as tr\u00eas cadeias alimentares acima. A maior quantidade de energia dispon\u00edvel para os n\u00edveis tr\u00f3ficos mais elevados estar\u00e1: "
+        },
+        {
+            "answers": [
+                " consumidores prim\u00e1rios;",
+                "consumidores secund\u00e1rios;",
+                "consumidores terci\u00e1rios;",
+                "produtores prim\u00e1rios;",
+                "decompositores."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4.  UEMS No Pantanal existe um grande n\u00famero de ecossistemas aqu\u00e1ticos, formados por rios, lagoas e \u00e1reas inund\u00e1veis. D\u00e1-se o nome de fitopl\u00e2ncton \u00e0 comunidade de algas microsc\u00f3picas que crescem abundantemente nesses ambientes. Esses organismos exercem em seus ecossistemas a fun\u00e7\u00e3o de:"
+        },
+        {
+            "answers": [
+                "1 e 6",
+                "2 e 5",
+                "3 e 4",
+                "4 e 3",
+                "5 e 2"
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/3.png",
+            "number": 5,
+            "prompt": "5. Unifor-CE O esquema acima mostra fatores do ambiente em que vive um gafanhoto. Nesse ambiente, os n\u00fameros de fatores bi\u00f3ticos e abi\u00f3ticos s\u00e3o, respectivamente: "
+        },
+        {
+            "answers": [
+                "consumidor prim\u00e1rio e consumidor prim\u00e1rio.",
+                "consumidor prim\u00e1rio e consumidor secund\u00e1rio.",
+                "consumidor prim\u00e1rio e decompositor.",
+                "decompositor e consumidor prim\u00e1rio.",
+                "produtor e consumidor prim\u00e1rio."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. FUVEST \u201cDa noite para o dia s\u00e3o capazes de depenar completamente um arbusto de pomar. No entanto, n\u00e3o usam as folhas como alimento e sim como adubo para suas hortas subterr\u00e2neas. No formigueiro, os peda\u00e7os de folhas transportados s\u00e3o mastigados e empapados de saliva at\u00e9 se transformarem em uma esp\u00e9cie de massa esponjosa sobre a qual se desenvolve um mofo. Desse bolor as sa\u00favas cuidam com o maior carinho. \u00c0 for\u00e7a de mand\u00edbulas, destroem qualquer \u201cerva daninha\u201d que tente proliferar e podam o mofo, cortando-lhe as extremidades dos filamentos, o que provoca, no lugar cortado, a forma\u00e7\u00e3o de umas bolinhas que \u2014 estas sim \u2014 constituem o alimento das sa\u00favas.\u201d (Texto reproduzido de Frota-Pessoa, O. Biologia na Escola Secund\u00e1ria, 2\u00aa ed., 1962, Minist\u00e9rio da Educa\u00e7\u00e3o e Cultura.) Na situa\u00e7\u00e3o descrita no texto, os n\u00edveis tr\u00f3ficos ocupados pelo mofo e pela sa\u00fava s\u00e3o, respectivamente, de:"
+        },
+        {
+            "answers": [
+                "decompositor, consumidor de 2\u00aa ordem e consumidor de 1\u00aa ordem",
+                "produtor, consumidor de 1\u00aa ordem e consumidor de 2\u00aa ordem",
+                "consumidor de 1\u00aa ordem, consumidor de 2\u00aa ordem e consumidor de 1\u00aa ordem",
+                "consumidor de 2\u00aa ordem, consumidor de 3\u00aa ordem e consumidor de 1\u00aa ordem",
+                "decompositor, consumidor de 1\u00aa ordem e decompositor"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. FEI-SP Num ecossistema, um fungo, uma coruja e um coelho podem desempenhar os pap\u00e9is, respectivamente, de:"
+        },
+        {
+            "answers": [
+                "algas",
+                "insetos",
+                "cop\u00e9podes",
+                "crust\u00e1ceos",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/4.png",
+            "number": 8,
+            "prompt": "8. UERJ Na maioria dos casos, a energia de um ecossistema origina-se da energia solar. A figura acima mostra alguns seres componentes do ecossistema de um lago. Considere que, no lago, existam quatro diferentes esp\u00e9cies de peixes. Cada uma dessas esp\u00e9cies se alimenta exclusivamente de um dos quatro componentes indicados. O peixe que teria melhores condi\u00e7\u00f5es de desenvolvimento, em fun\u00e7\u00e3o da disponibilidade energ\u00e9tica, seria o que se alimentasse de:"
+        },
+        {
+            "answers": [
+                "a minhoca aparece como reprodutor e o tico-tico como consumidor prim\u00e1rio.",
+                "o fub\u00e1 aparece como produtor e o tico-tico como consumidor prim\u00e1rio e secund\u00e1rio.",
+                "o fub\u00e1 aparece como produtor e o gato como consumidor prim\u00e1rio.",
+                "o tico-tico e o gato aparecem como consumidores prim\u00e1rios.",
+                " o alpiste aparece como produtor, o gato como consumidor prim\u00e1rio e a minhoca como decompositor."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. FUVEST-SP \u201cO tico-tico t\u00e1 comendo meu fub\u00e1 \/ Se o tico-tico pensa \/ em se alimentar \/ que v\u00e1 comer \/ umas minhocas no pomar (\u2026) \/ Botei alpiste para ver se ele comia \/ Botei um gato, um espantalho e um al\u00e7ap\u00e3o (\u2026)\u201d (Zequinha de Abreu, Tico-tico no Fub\u00e1). No contexto da m\u00fasica, na teia alimentar da qual fazem parte tico-tico, fub\u00e1, minhoca, alpiste e gato,"
+        },
+        {
+            "answers": [
+                "a) II pode ser parasita de I, mas nunca I de II.",
+                "b) I \u00e9 consumidor secund\u00e1rio; II, consumidor prim\u00e1rio.",
+                "c) II transfere mat\u00e9ria para I, mas nunca I para II.",
+                "d) I \u00e9 produtor; II, consumidor prim\u00e1rio.",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/5.png",
+            "number": 10,
+            "prompt": "10. UFRN O gr\u00e1fico acima apresenta as densidades de duas popula\u00e7\u00f5es num certo ambiente, ao longo do tempo. Com base no gr\u00e1fico, pode-se afirmar que: "
+        },
+        {
+            "answers": [
+                "o n\u00edvel tr\u00f3fico com menor quantidade de energia dispon\u00edvel \u00e9 o dos consumidores terci\u00e1rios;",
+                "toda a energia luminosa que chega ao meio est\u00e1 sendo convertida em energia qu\u00edmica;",
+                "a quantidade de energia dispon\u00edvel nos consumidores prim\u00e1rios \u00e9 maior que aquela presente no n\u00edvel dos consumidores secund\u00e1rios;",
+                "tirando o primeiro n\u00edvel tr\u00f3fico, todos os outros s\u00e3o de organismos heter\u00f3trofos;",
+                "todos os n\u00edveis tr\u00f3ficos dissipar\u00e3o parte da energia adquirida, atrav\u00e9s das pr\u00f3prias atividades metab\u00f3licas;"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/6.png",
+            "number": 11,
+            "prompt": "11.  U. Alfenas-MG O esquema acima mostra uma cadeia alimentar, onde 1, 2, 3 e 4  representam os n\u00edveis tr\u00f3ficos. Seria incorreto afirmar que:"
+        },
+        {
+            "answers": [
+                "A cobra ocupa dois n\u00edveis tr\u00f3ficos na cadeia proposta.",
+                "O sapo ocupa mais de uma ordem como consumidor.",
+                "A aranha \u00e9 consumidora terci\u00e1ria.",
+                "O d\u00edptero est\u00e1 no segundo n\u00edvel tr\u00f3fico.",
+                "A planta est\u00e1 no primeiro n\u00edvel tr\u00f3fico."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 12,
+            "prompt": "Cefet-PR Em uma floresta nativa h\u00e1 uma esp\u00e9cie de aranha que se alimenta de d\u00edpteros. Estes sugam seiva das plantas. Aranhas e d\u00edpteros constituem alimentos de um sapo verde que l\u00e1 vive, e este por sua vez \u00e9 eventualmente predado por cobras. Assinale a alternativa incorreta."
+        }
+    ]
+}
