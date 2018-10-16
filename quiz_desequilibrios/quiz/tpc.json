@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "Entre os principais poluentes do ar, pode-se citar fluoretos, esgotos e metais t\u00f3xicos, como o merc\u00fario.",
+                "Poluentes atmosf\u00e9ricos s\u00e3o chamados prim\u00e1rios quando produzidos no ar pela rea\u00e7\u00e3o entre outros poluentes e secund\u00e1rios quando se mant\u00eam no ar na forma em que foram emitidos.",
+                "Mon\u00f3xido de carbono (CO), part\u00edculas em suspens\u00e3o e \u00f3xidos de enxofre (SO2 ) s\u00e3o considerados pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), como dos principais poluentes do ar.",
+                "A prote\u00e7\u00e3o da camada de oz\u00f4nio \u00e9 importante porque sua destrui\u00e7\u00e3o e\/ou diminui\u00e7\u00e3o faria com que a Terra recebesse maior quantidade de radia\u00e7\u00e3o infravermelha, que \u00e9 biocida.",
+                "A invers\u00e3o t\u00e9rmica que ocorre no frio causa dispers\u00e3o de poluentes pelo ar aquecido, proporcionando condi\u00e7\u00f5es de melhoria na qualidade do ar."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. UFMS Os ecossistemas podem sofrer interfer\u00eancia em seus mecanismos de equil\u00edbrio natural, tal como a polui\u00e7\u00e3o. Considerando a afirma\u00e7\u00e3o feita, assinale a alternativa correta."
+        },
+        {
+            "answers": [
+                " O mon\u00f3xido de carbono \u00e9 um poluente cada vez mais comum na atmosfera das grandes cidades e causa a invers\u00e3o t\u00e9rmica.",
+                "O g\u00e1s carb\u00f4nico, cada vez mais abundante na atmosfera, provoca o efeito estufa, fen\u00f4meno completamente indesej\u00e1vel \u00e0 natureza.",
+                "O clorofluorcarbono (CFC) tem provocado altera\u00e7\u00f5es na camada de oz\u00f4nio, tendo como conseq\u00fc\u00eancia o aquecimento da Terra.",
+                "\u00d3xidos de enxofre e de nitrog\u00eanio liberados pela queima de combust\u00edveis ocasionam chuvas \u00e1cidas.",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 2,
+            "prompt": "2. UFRN O processo de industrializa\u00e7\u00e3o, apesar de proporcionar grandes benef\u00edcios \u00e0 humanidade, traz-lhe conseq\u00fc\u00eancias negativas, como \u00e9 o caso da polui\u00e7\u00e3o do ar. Com base nisso, indique a op\u00e7\u00e3o verdadeira."
+        },
+        {
+            "answers": [
+                "maior incid\u00eancia de muta\u00e7\u00f5es;",
+                "aumento da temperatura global;",
+                " aumento do n\u00edvel dos oceanos;",
+                "degelo das calotas polares;",
+                "chuva \u00e1cida."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. Unirio O esquema abaixo representa um problema ambiental provocado pela interfer\u00eancia do homem na biosfera. Como conseq\u00fc\u00eancia direta dessa quebra de sinergia deve-se esperar que ocorra:"
+        },
+        {
+            "answers": [
+                "\u00c9 fator limitante da fotoss\u00edntese, devido \u00e0 elevada concentra\u00e7\u00e3o.",
+                "\u00c9 a variedade alotr\u00f3pica do oxig\u00eanio mais energ\u00e9tica.",
+                "Decomp\u00f5e-se rapidamente em regi\u00f5es atmosf\u00e9ricas atingidas por eclipse solar total.",
+                "Possui velocidade de difus\u00e3o superior \u00e0 do oxig\u00eanio.",
+                "Cont\u00e9m 6,02 . 1023 \u00e1tomos em cada mol."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4. U. Salvador-BA A camada de oz\u00f4nio, que protege os seres vivos da radia\u00e7\u00e3o ultravioleta proveniente do Sol, tem sido alvo de numerosas mat\u00e9rias da imprensa, uma vez que, durante a primavera ant\u00e1rtica, sofreu redu\u00e7\u00e3o de uma \u00e1rea equivalente \u00e0 Am\u00e9rica do Sul e \u00e0 Europa juntas. Sobre o oz\u00f4nio e sua alta concentra\u00e7\u00e3o na estratosfera, \u00e9 correto afirmar:"
+        },
+        {
+            "answers": [
+                "Desmatamento na Amaz\u00f4nia e reflorestamento em larga escala.",
+                "Uso de gases contendo CFC; erradica\u00e7\u00e3o da energia nuclear.",
+                "Aumento das \u00e1reas cultivadas; campanhas de educa\u00e7\u00e3o ambiental.",
+                "Queima de combust\u00edveis f\u00f3sseis, reflorestamento em larga escala.",
+                "Destrui\u00e7\u00e3o da camada de oz\u00f4nio; redu\u00e7\u00e3o da atividade industrial."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. PUC-RJ A partir da Revolu\u00e7\u00e3o Industrial, o teor de g\u00e1s carb\u00f4nico (CO2 ) atmosf\u00e9rico, que era em torno de 275 ppm (partes por milh\u00e3o), sofreu um aumento da ordem de 25%. Estima-se que, em 2050, se mantidas as taxas atuais de emiss\u00e3o deste g\u00e1s, sejam atingidos teores entre 550 e 650 ppm. Qual a alternativa que aponta, respectivamente, a principal causa de aumento do CO2  atmosf\u00e9rico e uma poss\u00edvel forma de redu\u00e7\u00e3o deste fen\u00f4meno?"
+        },
+        {
+            "answers": [
+                "ao aumento da concentra\u00e7\u00e3o de mon\u00f3xido de carbono na atmosfera;",
+                " ao aumento da concentra\u00e7\u00e3o de di\u00f3xido de carbono na atmosfera;",
+                "ao aumento da concentra\u00e7\u00e3o de nitrog\u00eanio na atmosfera;",
+                "\u00e0 diminui\u00e7\u00e3o da concentra\u00e7\u00e3o de oxig\u00eanio na atmosfera;",
+                "\u00e0 diminui\u00e7\u00e3o da concentra\u00e7\u00e3o da camada de oz\u00f4nio na atmosfera."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. U.E. Londrina-PR Os especialistas t\u00eam observado que a temperatura m\u00e9dia anual est\u00e1 aumentando. Uma das causas desse aumento \u00e9 o \u201cefeito estufa\u201d, cuja ocorr\u00eancia se deve:"
+        },
+        {
+            "answers": [
+                "V, I, IV, III, II",
+                "V, IV, III, II, I",
+                "IV, I, II, III, V",
+                "I, III, II, IV, V",
+                "IV, III, V, II, I"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. FGV-SP Como conseq\u00fc\u00eancia do despejo de esgoto, a poss\u00edvel seq\u00fc\u00eancia temporal de eventos \u00e9 representada por (assinale a alternativa correta): I. Prolifera\u00e7\u00e3o de algas e bact\u00e9rias fotossintetizantes. \/ II. Morte de organismos aer\u00f3bicos (aut\u00f3trofos e heter\u00f3trofos). \/ III. Diminui\u00e7\u00e3o do teor de g\u00e1s oxig\u00eanio na \u00e1gua. \/ IV. Prolifera\u00e7\u00e3o de microorganismos aer\u00f3bicos. \/ V. Aumento de nutrientes nitrogenados e fosfatados."
+        },
+        {
+            "answers": [
+                "O efeito estufa, que causa aumento na temperatura do planeta e a conseq\u00fcente eleva\u00e7\u00e3o do n\u00edvel do mar.",
+                "O aumento dos custos de obten\u00e7\u00e3o de \u00e1gua pot\u00e1vel, pois a \u00e1gua aquecida torna mais caro o seu tratamento.",
+                "A redu\u00e7\u00e3o da penetra\u00e7\u00e3o da luz, com conseq\u00fcente redu\u00e7\u00e3o da fotoss\u00edntese e comprometimento da cadeia alimentar.",
+                "A redu\u00e7\u00e3o da penetra\u00e7\u00e3o da luz, com conseq\u00fcente redu\u00e7\u00e3o da fotoss\u00edntese e comprometimento da cadeia alimentar.",
+                "A diminui\u00e7\u00e3o da quantidade de oxig\u00eanio dissolvido, que afeta os organismos aer\u00f3bios."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. UFPI A polui\u00e7\u00e3o t\u00e9rmica decorre do uso da \u00e1gua em sistemas de arrefecimento (ou resfriamento) em ind\u00fastrias, usinas termel\u00e9tricas ou centrais nucleares. Depois de passar pelos sistemas de arrefecimento, a \u00e1gua \u00e9 devolvida a seu meio original (rios, lagos ou oceanos) com uma temperatura muito superior \u00e0quela com a qual entrou no sistema. Assinale a alternativa que apresenta um dos principais problemas decorrentes da polui\u00e7\u00e3o t\u00e9rmica."
+        },
+        {
+            "answers": [
+                "prolifera\u00e7\u00e3o de seres anaer\u00f3bios \u2192 redu\u00e7\u00e3o de O2 \u2192 prolifera\u00e7\u00e3o de bact\u00e9rias aer\u00f3bias \u2192 prolifera\u00e7\u00e3ode bact\u00e9rias fotoss\u00ednt\u00e9ticas.",
+                "prolifera\u00e7\u00e3o de bact\u00e9rias aer\u00f3bias \u2192 redu\u00e7\u00e3o de bact\u00e9rias anaer\u00f3bias \u2192 aumento de O2 \u2192 morte de seres aer\u00f3bios;",
+                "prolifera\u00e7\u00e3o de bact\u00e9rias anaer\u00f3bias \u2192 redu\u00e7\u00e3o de O2 \u2192 prolifera\u00e7\u00e3o de bact\u00e9rias fotoss\u00ednt\u00e9ticas \u2192 prolifera\u00e7\u00e3o de bact\u00e9rias aer\u00f3bias.",
+                "prolifera\u00e7\u00e3o de bact\u00e9rias aer\u00f3bias \u2192 redu\u00e7\u00e3o de O2 \u2192 morte de seres aer\u00f3bios \u2192 prolifera\u00e7\u00e3o de seres anaer\u00f3bios;",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. UFRN Ao final do passeio um pesquisador informa que, num rio pr\u00f3ximo, podem ser vistos pontos de despejo de grandes quantidades de dejetos org\u00e2nicos. Inconformado com tal situa\u00e7\u00e3o, ele enumera seq\u00fcencialmente os eventos resultantes dessa polui\u00e7\u00e3o. A op\u00e7\u00e3o que apresenta a seq\u00fc\u00eancia correta desses eventos \u00e9:"
+        },
+        {
+            "answers": [
+                " os res\u00edduos causam a prolifera\u00e7\u00e3o de microrganismos, que levar\u00e1 \u00e0 escassez de oxig\u00eanio, proporcionando a morte de organismos aer\u00f3bicos, tanto aut\u00f3trofos quanto heter\u00f3trofos;",
+                "os res\u00edduos levar\u00e3o \u00e0 escassez de f\u00f3sforo e nitrog\u00eanio, o que culminar\u00e1 com o desaparecimento das plantas e algas;",
+                "as bact\u00e9rias degradam os res\u00edduos, liberando nitratos e fosfatos, que s\u00e3o t\u00f3xicos aos peixes, causando, assim, a morte desses animais;",
+                " o excesso de f\u00f3sforo e nitrog\u00eanio impedir\u00e1 o crescimento das algas e, como conseq\u00fc\u00eancia, haver\u00e1 redu\u00e7\u00e3o da fauna aqu\u00e1tica que as consome;",
+                " os res\u00edduos levar\u00e3o \u00e0 prolifera\u00e7\u00e3o de organismos fotossintetizantes, que ser\u00e3o respons\u00e1veis pela produ\u00e7\u00e3o excessiva de oxig\u00eanio, causando intoxica\u00e7\u00e3o e morte nos organismos aer\u00f3bicos."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 10,
+            "prompt": "10. UFCE Uma forma comum de polui\u00e7\u00e3o das \u00e1guas \u00e9 causada pelo lan\u00e7amento de dejetos humanos nos rios, lagos e mares. Esses res\u00edduos levam ao aumento da quantidade de nutrientes dispon\u00edveis no ambiente, fen\u00f4meno denominado eutrofica\u00e7\u00e3o. Quando esses res\u00edduos atingem uma massa de \u00e1gua, ocorre uma cadeia de eventos, que culminam com graves problemas. Sobre esses eventos e suas conseq\u00fc\u00eancias, \u00e9 correto afirmar que:"
+        },
+        {
+            "answers": [
+                "A luz que penetra abaixo de uma mancha de \u00f3leo \u00e9 maior que a luz que penetra em \u00e1guas claras, aumentando assim a taxa de fotoss\u00edntese com conseq\u00fcente desequil\u00edbrio na cadeia alimentar.",
+                "O \u00f3leo compromete os ecossistemas aqu\u00e1ticos por causar danos as aves aqu\u00e1ticas que perdem a capacidade de isolamento t\u00e9rmico, em virtude de suas penas ficarem encharcadas de \u00f3leo.",
+                "O \u00f3leo compromete os ecossistemas aqu\u00e1ticos por causar aumento na quantidade de oxig\u00eanio dissolvido debaixo da mancha de \u00f3leo, desequilibrando assim a cadeia alimentar marinha.",
+                "Sendo mais denso que a \u00e1gua, o \u00f3leo precipita-se nos oceanos, comprometendo todo o ecossistema marinho devido a sua toxicidade aos organismos nect\u00f4nicos e bent\u00f4nicos.",
+                "Apesar de comprometer diretamente apenas o fitopl\u00e2ncton marinho, o dano \u00e9 devastador porque ir\u00e1 afetar indiretamente os consumidores prim\u00e1rios, secund\u00e1rios e terci\u00e1rios."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 11,
+            "prompt": "11. UFPI A m\u00eddia freq\u00fcentemente mostra epis\u00f3dios de acidentes de vazamentos de \u00f3leo nos oceanos, os quais podem ser bastante devastadores. No entanto, somente 5% da polui\u00e7\u00e3o por \u00f3leo nos oceanos \u00e9 devida a grandes acidentes de vazamentos. A agress\u00e3o silenciosa, representada pelas opera\u00e7\u00f5es rotineiras em embarca\u00e7\u00f5es, terminais e outras instala\u00e7\u00f5es petrol\u00edferas, apesar de ter menos apelo, representam 90% da contamina\u00e7\u00e3o. Assinale a alternativa que mostra corretamente uma das conseq\u00fc\u00eancias deste tipo de polui\u00e7\u00e3o."
+        },
+        {
+            "answers": [
+                "Destrui\u00e7\u00e3o da camada de oz\u00f4nio e aumento da incid\u00eancia de c\u00e2ncer de pele.",
+                "Interfer\u00eancia na aten\u00e7\u00e3o, na vigil\u00e2ncia e no trabalho mental.",
+                "Inativa\u00e7\u00e3o da hemoglobina e morte por asfixia.",
+                "Redu\u00e7\u00e3o da tens\u00e3o superficial da \u00e1gua e quebra da cadeia alimentar aqu\u00e1tica",
+                ""
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 12,
+            "prompt": "12. UFMG Agentes poluidores representados nessa figura e presentes em resid\u00eancias s\u00e3o respons\u00e1veis por todos os seguintes efeitos na sa\u00fade e no ambiente, exceto:"
+        }
+    ]
+}
