@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "A tundra, que \u00e9 encontrada em regi\u00f5es polares e alpinas, tem bastante representatividade em territ\u00f3rio brasileiro.",
+                "Savanas tropicais s\u00e3o conjuntos de forma\u00e7\u00f5es abertas com dom\u00ednio de uma vegeta\u00e7\u00e3o de gram\u00edneas dispersas e tufos de ervas baixas. Ocorrem na Am\u00e9rica do Norte, Eur\u00e1sia, \u00c1frica e nos pampas da Am\u00e9rica do sul.",
+                "Os desertos e semidesertos, que ocorrem nos centros de altas press\u00f5es da Am\u00e9rica do Norte, \u00c1frica, Eur\u00e1sia e Austr\u00e1lia, n\u00e3o t\u00eam representatividade na Am\u00e9rica do sul.",
+                "As florestas tropicais chuvosas recebem uma precipita\u00e7\u00e3o baixa e mal distribu\u00edda durante o ano todo. Concentradas na faixa intertropical, constituem os ecossistemas com maior biomassa terrestre.",
+                "Florestas boreais s\u00e3o as matas de con\u00edferas que ocorrem em latitudes acima de 45\u00ba. No inverno, elas s\u00e3o muito \u00famidas e frias."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. U.E. Ponta Grossa-PR Com rela\u00e7\u00e3o aos grandes biomas do mundo, suas localiza\u00e7\u00f5es e caracter\u00edsticas gerais, assinale o que for correto."
+        },
+        {
+            "answers": [
+                "vegeta\u00e7\u00e3o constitu\u00edda por um estrato de gram\u00edneas e outras ervas, al\u00e9m de arbustos e poucas \u00e1rvores.",
+                " biodiversidade reduzida, reflexo de uma pobreza em esp\u00e9cies animais e vegetais.",
+                " din\u00e2mica na composi\u00e7\u00e3o das esp\u00e9cies, impedindo que o bioma alcance o est\u00e1gio cl\u00edmax.",
+                "precipita\u00e7\u00e3o pluviom\u00e9trica intensa e bem distribu\u00edda durante todo o ano.",
+                "fauna e a flora t\u00edpicas de regi\u00f5es de transi\u00e7\u00e3o entre floresta tropical e manguezais."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/quest\u00e3o 1.png",
+            "number": 2,
+            "prompt": "2. U. Cat\u00f3lica Dom Bosco-MS A ilustra\u00e7\u00e3o destaca um bioma terrestre \u2013 o cerrado \u2013 e as esp\u00e9cies caracter\u00edsticas dessa zona de vegeta\u00e7\u00e3o. Pode-se reconhecer como caracter\u00edsticas do cerrado:"
+        },
+        {
+            "answers": [
+                "IA; IIC; IIID; IVB",
+                "ID; IIA; IIIB; IVC",
+                "IB; IID; IIIA; IVC",
+                "IB; IIA; IIIC; IVD",
+                "ID; IIA; IIIC; IVB"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/quest\u00e3o 3.png",
+            "number": 3,
+            "prompt": "3.  U.F. Vi\u00e7osa-MG Associe as colunas de maneira que as caracter\u00edsticas correspondam aos respectivos biomas."
+        },
+        {
+            "answers": [
+                "Os manguezais est\u00e3o restritos \u00e0 \u00e1rea litor\u00e2nea, inexistindo em regi\u00f5es que n\u00e3o t\u00eam contato direto com o mar.",
+                "A vegeta\u00e7\u00e3o rasteira est\u00e1 adaptada \u00e0s oscila\u00e7\u00f5es das mar\u00e9s, suportando com facilidade a subida e descida do n\u00edvel da \u00e1gua do mar.",
+                "Devido \u00e0 grande disponibilidade de nutrientes minerais e org\u00e2nicos, os manguezais se constituem em fonte de alimento para v\u00e1rias esp\u00e9cies marinhas, principalmente peixes e moluscos. Os crust\u00e1ceos utilizam os manguezais apenas para reprodu\u00e7\u00e3o.",
+                "A vegeta\u00e7\u00e3o predominante nos manguezais \u00e9 arbustiva, sendo que, entre os tipos mais comuns de arbustos, est\u00e3o aqueles que desenvolvem as chamadas ra\u00edzes-escoras, que aumentam significativamente sua \u00e1rea de sustenta\u00e7\u00e3o.",
+                "Em geral, nos manguezais n\u00e3o se desenvolve a atividade pesqueira devido \u00e0 pequena quantidade de esp\u00e9cie marinha e \u00e0s dificuldades impostas pela vegeta\u00e7\u00e3o dominante."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4. Cefet-RJ O manguezal \u00e9 um bioma que est\u00e1 adaptado \u00e0 transi\u00e7\u00e3o entre o mar e a terra firme. Sua vegeta\u00e7\u00e3o \u00e9 resistente \u00e0s oscila\u00e7\u00f5es das mar\u00e9s e seu solo \u00e9 lodoso, com grande concentra\u00e7\u00e3o de sal. Assinale a alternativa correta."
+        },
+        {
+            "answers": [
+                "A vegeta\u00e7\u00e3o tem aspecto xerom\u00f3rfico.",
+                "Solo muito perme\u00e1vel, com baixo teor de nutrientes e baixo pH.",
+                "Dentre as forma\u00e7\u00f5es brasileiras, \u00e9 a que apresenta a mais alta freq\u00fc\u00eancia de gimnospermas.",
+                "Ocorr\u00eancia de duas esta\u00e7\u00f5es: uma seca e uma chuvosa.",
+                "S\u00e3o plantas t\u00edpicas desse bioma: o pequi, a lixeira, a copa\u00edba, o barbatim\u00e3o e o angico."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. UEMS Assinale a op\u00e7\u00e3o cuja caracter\u00edstica n\u00e3o est\u00e1 associada ao bioma cerrado:"
+        },
+        {
+            "answers": [
+                "\u00c0 vegeta\u00e7\u00e3o de dunas.",
+                "\u00c0 mata com arauc\u00e1ria.",
+                "\u00c0 mata de restinga.",
+                "A campos da campanha.",
+                "A banhados litor\u00e2neos."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. UFRGS Leia o texto abaixo. \u201cSubindo sempre, os campos misturados com pinhais se adiantam at\u00e9 a orla exterior. De vez em quando, vastas por\u00e7\u00f5es planas s\u00e3o inteiramente brejosas, revestidas de uma vegeta\u00e7\u00e3o palustre estranha, entre a qual assomam em toda a parte, os tufos purp\u00fareos de Sphagnum, o musgo das turfeiras.\u201d (Baldu\u00edno S. J. Rambo. A fisionomia do Rio Grande do Sul. Ed. Unisinos, 1994.) As comunidades fisionomicamente descritas no texto acima est\u00e3o associadas a que tipo de vegeta\u00e7\u00e3o natural do Rio Grande do Sul?"
+        },
+        {
+            "answers": [
+                "dunas asi\u00e1ticas tropicais.",
+                "desertos quentes da \u00c1frica.",
+                "mata pluvial tropical.",
+                "mata das arauc\u00e1rias.",
+                "mata de geleiras n\u00f3rdicas."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. FATEC-SP Presen\u00e7a de \u00e1rvores de folhas perenes e largas (perenif\u00f3lias e latifoliadas), com altura geralmente entre 30 e 35 metros, grande variabilidade na vegeta\u00e7\u00e3o de ep\u00edfitas (principalmente brom\u00e9lias e orqu\u00eddeas) e consider\u00e1vel desenvolvimento de vegeta\u00e7\u00e3o arbustiva s\u00e3o caracter\u00edsticas de"
+        },
+        {
+            "answers": [
+                "Vegeta\u00e7\u00e3o caracter\u00edstica da regi\u00e3o Nordeste do pa\u00eds, cujo nome significa mata branca.",
+                "Vegeta\u00e7\u00e3o bastante caracter\u00edstica da regi\u00e3o Sudeste do pa\u00eds, com aspectos xerom\u00f3rficos.",
+                "Floresta tropical que recobre regi\u00f5es montanhosas.",
+                "Mata que ocorre nas regi\u00f5es Norte e Nordeste do pa\u00eds, constitu\u00edda principalmente de palmeiras.",
+                "Vegeta\u00e7\u00e3o que recobre solos \u00e1cidos e com grande quantidade de alum\u00ednio."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. UFMS Assinale a(s) alternativa(s) que pode(m) definir corretamente a regi\u00e3o biogeogr\u00e1fica de cerrado no Brasil."
+        },
+        {
+            "answers": [
+                "\u00e0 Mata Atl\u00e2ntica.",
+                "ao manguezal.",
+                "aos pampas.",
+                "\u00e0 resting.",
+                "\u00e0s dunas litor\u00e2neas."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. VUNESP Explorando uma faixa estreita do litoral de S\u00e3o Paulo, desenvolve-se um tipo de vegeta\u00e7\u00e3o, formado de poucas esp\u00e9cies arb\u00f3reas, providas de adapta\u00e7\u00f5es para enfrentar um solo lodoso, com alto teor salino e carente de oxig\u00eanio. O ecossistema descrito corresponde"
+        },
+        {
+            "answers": [
+                "\u00e0s florestas tropicais;",
+                "\u00e0s florestas temperadas;",
+                "aos cerrados;",
+                "aos manguezais;",
+                "\u00e0s matas de arauc\u00e1ria;"
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 10,
+            "prompt": "10. UFPI Considere o texto a seguir: \u201cS\u00e3o encontrados(as) desde o Amap\u00e1 at\u00e9 Santa Catarina, nos estu\u00e1rios de v\u00e1rios rios, apresentando solos alagados e inst\u00e1veis, ricos em mat\u00e9ria org\u00e2nica e pouco oxigenados e s\u00e3o \u00e1reas de reprodu\u00e7\u00e3o de diversas esp\u00e9cies marinhas\u201d. O texto refere-se:"
+        },
+        {
+            "answers": [
+                "mangueira, beija-flor, pequizeiro, barata-dom\u00e9stica e arauc\u00e1ria.",
+                "angico, tamandu\u00e1, pitangueira, jararaca e buriti.",
+                "orqu\u00eddea, boi, guabiroba, lambari e condor.",
+                "cacau, mico-le\u00e3o dourado, laranjeira, mosca-dom\u00e9stica e lobo guar\u00e1.",
+                "macieira, tatu canastra, amoreira, tico-tico e galinha."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 11,
+            "prompt": "11. U.F. Uberl\u00e2ndia-MG Assinale a \u00fanica alternativa em que os animais e as plantas que ocorrem naturalmente na regi\u00e3o dos cerrados (esp\u00e9cies nativas do Brasil)."
+        },
+        {
+            "answers": [
+                "A mata atl\u00e2ntica \u00e9 a forma\u00e7\u00e3o dominante do Rio de Janeiro.",
+                "As restingas se desenvolvem sobre solos arenosos e constituem o ecossistema mais amea\u00e7ado de todos os demais.",
+                "Os campos de altitude est\u00e3o localizados principalmente nas serras dos \u00d3rg\u00e3os e Itatiaia e apresentam grande n\u00famero de endemismos.",
+                "A mata atl\u00e2ntica \u00e9 constitu\u00edda por florestas secund\u00e1rias na maior parte do trecho fluminense.",
+                "Os manguezais est\u00e3o ligados \u00e0 exist\u00eancia de um ciclo de mar\u00e9s e apresentam alta diversidade de esp\u00e9cies vegetais."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 12,
+            "prompt": "12. PUC-RJ O estado do Rio de Janeiro apresenta diversos ecossistemas, em fun\u00e7\u00e3o da grande variabilidade de sua paisagem. Dentre as caracter\u00edsticas listadas abaixo, destaque a alternativa errada."
+        }
+    ]
+}
