@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "answers": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. Um grupo de pesquisadores chegou a uma \u00e1rea de Cerrado e identificou a exist\u00eancia de dez esp\u00e9cies diferentes de plantas no local. Quantas comunidades os pesquisadores encontraram?"
+        },
+        {
+            "answers": [
+                "nascimentos e imigra\u00e7\u00f5es.",
+                "nascimentos e mortes.",
+                "mortes e imigra\u00e7\u00f5es.",
+                "nascimentos e emigra\u00e7\u00f5es.",
+                "mortes e emigra\u00e7\u00f5es."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 2,
+            "prompt": "2. Uma popula\u00e7\u00e3o n\u00e3o pode crescer de maneira ilimitada, pois seu crescimento pode afetar a todos os membros do grupo e gerar, por exemplo, a competi\u00e7\u00e3o. Entre os fatores que limitam o crescimento de uma popula\u00e7\u00e3o, podemos citar:"
+        },
+        {
+            "answers": [
+                "Nos ecossistemas, os organismos interagem com outros.",
+                "Nos ecossistemas, ocorrem rela\u00e7\u00f5es ecol\u00f3gicas.",
+                "Nos ecossistemas, os organismos n\u00e3o interagem com fatores f\u00edsicos.",
+                "Recifes de coral s\u00e3o exemplos de ecossistemas aqu\u00e1ticos.",
+                "Nos ecossistemas, o fluxo de energia possui apenas uma dire\u00e7\u00e3o."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. Marque a alternativa incorreta:"
+        },
+        {
+            "answers": [
+                "Possuir fluxo de energia bidirecional.",
+                "Ser um sistema fechado e autossuficiente.",
+                "Reunir os organismos em um \u00fanico n\u00edvel tr\u00f3fico.",
+                "Impedir movimentos de imigra\u00e7\u00e3o e emigra\u00e7\u00e3o de organismos.",
+                "Compreender ciclos de materiais entre os componentes bi\u00f3ticos e abi\u00f3ticos."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4. (Unicentro) O Manguezal \u00e9 um ecossistema costeiro que ocorre entre os ambientes terrestre e mar\u00edtimo, caracter\u00edstico de regi\u00f5es tropicais e subtropicais, sujeito \u00e0 inunda\u00e7\u00e3o das mar\u00e9s. O manguezal se enquadra no conceito de ecossistema por:"
+        },
+        {
+            "answers": [
+                "A introdu\u00e7\u00e3o de f\u00eameas normais no local contaminado seria vantajosa, pois restabeleceria permanentemente a popula\u00e7\u00e3o de f\u00eameas, e a reprodu\u00e7\u00e3o n\u00e3o seria afetada.",
+                "O ac\u00famulo de TBT na cadeia alimentar levaria a um fen\u00f4meno conhecido como magnifica\u00e7\u00e3o tr\u00f3fica, aumentando a concentra\u00e7\u00e3o de TBT nos n\u00edveis tr\u00f3ficos inferiores.",
+                "A popula\u00e7\u00e3o de moluscos afetados pela contamina\u00e7\u00e3o com TBT entraria em decl\u00ednio, com uma poss\u00edvel extin\u00e7\u00e3o local da esp\u00e9cie.",
+                "O TBT atuaria de maneira ben\u00e9fica para a comunidade marinha por realizar o controle da popula\u00e7\u00e3o local de moluscos.",
+                "O TBT teria efeito direto na popula\u00e7\u00e3o de moluscos, sem afetar os demais organismos da comunidade marinha local."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. UFC\/2009 O fen\u00f4meno conhecido como imposex caracteriza-se pelo surgimento anormal de caracteres sexuais masculinos, como p\u00eanis e vaso deferente, em f\u00eameas de moluscos gastr\u00f3podes. Esse fen\u00f4meno \u00e9 provocado pela contamina\u00e7\u00e3o da \u00e1gua do mar por compostos org\u00e2nicos de estanho, como o tributilestanho (TBT), oriundo das tintas de a\u00e7\u00e3o anti-incrustante utilizadas em muitas embarca\u00e7\u00f5es. O imposex \u00e9 verificado principalmente em \u00e1reas onde h\u00e1 fluxo constante de navios e embarca\u00e7\u00f5es. Com base no exposto, assinale a alternativa correta."
+        },
+        {
+            "answers": [
+                "facilidade de reprodu\u00e7\u00e3o e organiza\u00e7\u00e3o dos indiv\u00edduos em diferentes castas.",
+                "elimina\u00e7\u00e3o de predadores e maior n\u00famero de machos reprodutores na col\u00f4nia.",
+                "presen\u00e7a de numerosos indiv\u00edduos oper\u00e1rios e maior prote\u00e7\u00e3o do ninho.",
+                "disponibilidade de alimento e facilidade para instala\u00e7\u00e3o de novas col\u00f4nias.",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. UFRN\/2006 O aumento das infesta\u00e7\u00f5es por cupins em casas e pr\u00e9dios pode ser resultante da a\u00e7\u00e3o do homem sobre o ambiente e das caracter\u00edsticas biol\u00f3gicas desses animais. A combina\u00e7\u00e3o de fatores que melhor explica esse aumento de infesta\u00e7\u00f5es nas cidades \u00e9:"
+        },
+        {
+            "answers": [
+                "O crescimento da popula\u00e7\u00e3o em A \u00e9 menor do que em B; no segmento A, o n\u00famero inicial de organismos capazes de se reproduzir \u00e9 enorme.",
+                "O segmento B mostra que a popula\u00e7\u00e3o adquire maior velocidade de crescimento; fala-se em crescimento exponencial.",
+                "No segmento C, a popula\u00e7\u00e3o se aproxima dos limites impostos pelo ambiente.",
+                "No segmento D da curva, evidencia-se que ocorrem pequenas oscila\u00e7\u00f5es em torno da situa\u00e7\u00e3o de equil\u00edbrio.",
+                "Em E, seta indicativa, ilustra-se o crescimento esperado, caso n\u00e3o existisse resist\u00eancia ambiental."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 7,
+            "prompt": "7. UFPE\/2005 O crescimento de uma popula\u00e7\u00e3o \u00e9 ilustrado no gr\u00e1fico abaixo. Em rela\u00e7\u00e3o a este assunto, analise as proposi\u00e7\u00f5es seguintes e marque a INCORRETA."
+        },
+        {
+            "answers": [
+                "Na natureza, a fase de equil\u00edbrio do crescimento populacional, indicada em D, na figura (1), ocorre em fun\u00e7\u00e3o da resist\u00eancia ambiental.",
+                "O crescimento real de uma popula\u00e7\u00e3o n\u00e3o controlada depende de seu potencial bi\u00f3tico, como indicado em B, na figura (1).",
+                "A popula\u00e7\u00e3o indicada no gr\u00e1fico (2) sofreu uma maior a\u00e7\u00e3o da resist\u00eancia ambiental no tempo de 0 a 80 do que no tempo de 100 a 120.",
+                "Apenas os microorganismos que vivem livres na natureza t\u00eam padr\u00e3o de crescimento populacional como ilustrado no gr\u00e1fico (2).",
+                "A densidade de uma popula\u00e7\u00e3o mantida em laborat\u00f3rio, em condi\u00e7\u00f5es ideais, deve obedecer \u00e0 curva descrita no gr\u00e1fico (1)."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 8,
+            "prompt": "8. UNIVASF\/2008 Os gr\u00e1ficos abaixo foram constru\u00eddos com base em dados obtidos por diferentes pesquisadores, em estudos sobre crescimento populacional, considerando diferentes esp\u00e9cies de animais, inclusive o homem. Nos dois casos mostrados nos gr\u00e1ficos, para efeito de simplifica\u00e7\u00e3o, faz-se refer\u00eancia ao tempo, apenas sob o ponto de vista num\u00e9rico. Com base nesses gr\u00e1ficos, pode-se afirmar que:"
+        }
+    ]
+}
