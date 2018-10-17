@@ -1,0 +1,100 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "algas",
+                "insetos",
+                "cop\u00e9podes",
+                "crust\u00e1ceos",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 1,
+            "prompt": "1. Considere que, no lago, existam quatro diferentes esp\u00e9cies de peixes. Cada uma dessas esp\u00e9cies se alimenta exclusivamente de um dos quatro componentes indicados. O peixe que teria melhores condi\u00e7\u00f5es de desenvolvimento, em fun\u00e7\u00e3o da disponibilidade energ\u00e9tica, seria o que se alimentasse de:"
+        },
+        {
+            "answers": [
+                "introduzida na comunidade bi\u00f3tica por I, sendo transferida, sob a forma qu\u00edmica, aos demais seres vivos;",
+                "obtida do ambiente f\u00edsico e passa de ser vivo a ser vivo, retornando integralmente ao ecossistema, pela a\u00e7\u00e3o de III;",
+                "originada em II, sendo fixada, sob a forma qu\u00edmica, diretamente por IV",
+                "utilizada por III, a partir de compostos org\u00e2nicos, quando ele realiza a fotoss\u00edntese.",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 2,
+            "prompt": "2. A partir do figura, um estudante comenta que, sem energia, n\u00e3o h\u00e1 vida. Utiliza os elementos ilustrados (I, II, III e IV) para informar que a energia \u00e9:"
+        },
+        {
+            "answers": [
+                "O fluxo de energia entre os ecossistemas d\u00e1-se pela exist\u00eancia de seres produtores, fit\u00f3fagos, predadores e necr\u00f3fagos.",
+                "Na figura anterior podemos caracterizar como predadores: homem, gaivota, pelicano e o peixe grande.",
+                "A maioria dos estudos ecol\u00f3gicos a respeito do meio ambiente exclui completamente o homem das rela\u00e7\u00f5es existentes entre os ecossistemas. Quando isso ocorre, o estudo est\u00e1 caminhando para erros grav\u00edssimos.",
+                "As rela\u00e7\u00f5es m\u00fatuas existentes entre os diversificados seres vivos e a troca de energia que ocorre entre eles, \u00e9 denominado ecossistema.",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/3.png",
+            "number": 3,
+            "prompt": "3. U. Cat\u00f3lica-GO O esquema acima representa rela\u00e7\u00f5es existentes entre os ecossistemas aqu\u00e1ticos e os ecossistemas terrestres. Assinale a alternativa INCORRETA."
+        },
+        {
+            "answers": [
+                "apenas na cadeia I",
+                "apenas nas cadeias I e III",
+                "apenas na cadeia II",
+                "apenas nas cadeias I e II",
+                "nas cadeias I, II e III"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/4.png",
+            "number": 4,
+            "prompt": "4. VUNESP Considere as tr\u00eas cadeias alimentares acima. A maior quantidade de energia dispon\u00edvel para os n\u00edveis tr\u00f3ficos mais elevados estar\u00e1:"
+        },
+        {
+            "answers": [
+                " pela respira\u00e7\u00e3o dos produtores;",
+                "pela captura direta por parte dos consumidores;",
+                "pelo processo fotossint\u00e9tico;",
+                "pelo armazenamento da energia nas cadeias tr\u00f3ficas;",
+                "pela preda\u00e7\u00e3o de n\u00edveis tr\u00f3ficos inferiores."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. PUC-RJ Quando nos referimos ao ecossistema de um lago, dois conceitos s\u00e3o muito importantes: o ciclo dos nutrientes e o fluxo de energia. A energia necess\u00e1ria aos processos vitais de todos os elementos deste lago \u00e9 reintroduzida neste ecossistema:"
+        },
+        {
+            "answers": [
+                "o n\u00edvel tr\u00f3fico com menor quantidade de energia dispon\u00edvel \u00e9 o dos consumidores terci\u00e1rios;",
+                "toda a energia luminosa que chega ao meio est\u00e1 sendo convertida em energia qu\u00edmica;",
+                "a quantidade de energia dispon\u00edvel nos consumidores prim\u00e1rios \u00e9 maior que aquela presente no n\u00edvel dos consumidores secund\u00e1rios;",
+                "tirando o primeiro n\u00edvel tr\u00f3fico, todos os outros s\u00e3o de organismos heter\u00f3trofos;",
+                "todos os n\u00edveis tr\u00f3ficos dissipar\u00e3o parte da energia adquirida, atrav\u00e9s das pr\u00f3prias atividades metab\u00f3licas;"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/6.png",
+            "number": 6,
+            "prompt": "6. U. Alfenas-MG O esquema acima mostra uma cadeia alimentar, onde 1, 2, 3 e 4  representam os n\u00edveis tr\u00f3ficos. Seria incorreto afirmar que:"
+        }
+    ]
+}
