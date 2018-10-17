@@ -1,0 +1,148 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "eutrofiza\u00e7\u00e3o",
+                "amensalismo",
+                "magnifica\u00e7\u00e3o tr\u00f3fica",
+                "sucess\u00e3o ecol\u00f3gica",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 1,
+            "prompt": "1. Por conta de um inc\u00eandio, uma floresta teve sua vegeta\u00e7\u00e3o totalmente destru\u00edda. Ao longo do tempo, foram observadas altera\u00e7\u00f5es no n\u00famero e na diversidade de esp\u00e9cies vegetais no local, conforme ilustra a imagem. Essas altera\u00e7\u00f5es caracterizam o fen\u00f4meno denominado:"
+        },
+        {
+            "answers": [
+                "quando os parasitas est\u00e3o ausentes, as esp\u00e9cies X e Y n\u00e3o competem entre si.",
+                "quando os parasitas est\u00e3o ausentes, a esp\u00e9cie X \u00e9 melhor competidora do que a esp\u00e9cie Y.",
+                "quando os parasitas est\u00e3o presentes, a esp\u00e9cie X \u00e9 melhor competidora do que a esp\u00e9cie Y.",
+                "os parasitas n\u00e3o influenciam a competi\u00e7\u00e3o entre as duas esp\u00e9cies de roedores.",
+                "quando os parasitas est\u00e3o presentes, a esp\u00e9cie Y \u00e9 melhor competidora do que a esp\u00e9cie X."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/2.jpg",
+            "number": 2,
+            "prompt": "2. Indiv\u00edduos de duas esp\u00e9cies de roedores (X e Y) competem entre si por sementes de girassol, podendo, al\u00e9m disso, apresentar os mesmos parasitas intestinais.  Em um experimento, um pesquisador manteve a mesma quantidade de indiv\u00edduos dessas duas esp\u00e9cies no mesmo ambiente, com sementes de girassol como alimento. A an\u00e1lise foi feita com as esp\u00e9cies de roedores parasitadas e, depois de um tratamento, com as mesmas esp\u00e9cies sem os parasitas. O gr\u00e1fico ilustra o resultado obtido. Os resultados mostrados no gr\u00e1fico permitem concluir que:"
+        },
+        {
+            "answers": [
+                "normas de rea\u00e7\u00e3o, que apareceram por muta\u00e7\u00f5es induzidas. ",
+                "caracter\u00edsticas adaptativas, que foram selecionadas pelo ambiente.",
+                "\u00f3rg\u00e3os hom\u00f3logos, que surgiram para adapt\u00e1-los ao ambiente.",
+                "\u00f3rg\u00e3os vestigiais, que ficaram cada vez mais complexos com o tempo.",
+                "\u00f3rg\u00e3os an\u00e1logos, que surgiram pela necessidade de sobreviv\u00eancia."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. Considere os exemplos de caracter\u00edsticas anat\u00f4micas e fisiol\u00f3gicas de tr\u00eas seres vivos.     \u2022 O chimpanz\u00e9 (Pan troglodytes) possui vis\u00e3o binocular e o primeiro dedo opon\u00edvel nas m\u00e3os. A vis\u00e3o binocular permite que o c\u00e9rebro distinga as diferentes dist\u00e2ncias entre os objetos observados e o observador e a presen\u00e7a do primeiro dedo opon\u00edvel nas m\u00e3os permite o movimento de pin\u00e7a, facilitando agarrar objetos.  \u2022 O inseto maria-fedida (Nezara viridula) libera um odor, produzido por gl\u00e2ndulas toda vez que se sente amea\u00e7ado. Al\u00e9m dessa defesa, ele pode apresentar algumas colora\u00e7\u00f5es, como verde ou marrom, o que auxilia na prote\u00e7\u00e3o contra predadores.  \u2022 A planta urtiga (Urera baccifera) apresenta tricomas urticantes na superf\u00edcie de suas folhas. Eles secretam subst\u00e2ncias \u00e1cidas, causando vermelhid\u00e3o, coceira e ard\u00eancia na pele de uma pessoa que as toca.     Esses tr\u00eas seres vivos apresentam"
+        },
+        {
+            "answers": [
+                "a PO2 alveolar na situa\u00e7\u00e3o \u201crespirando ar\u201d aumenta progressivamente a medida que a altitude aumenta.",
+                "a satura\u00e7\u00e3o de oxig\u00eanio arterial aumenta progressivamente em altitudes mais elevadas em ambas as situa\u00e7\u00f5es da tabela. ",
+                "a PCO2 na situa\u00e7\u00e3o \u201crespirando oxig\u00eanio puro\u201d permanece constante com o aumento da altitude. ",
+                "\u00e0 medida que a altitude aumenta, a press\u00e3o barom\u00e9trica diminui e a PO2 diminui proporcionalmente. ",
+                "a satura\u00e7\u00e3o de oxig\u00eanio arterial na situa\u00e7\u00e3o \u201coxig\u00eanio puro\u201d permanece constante com o aumento da altitude."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/3.jpg",
+            "number": 4,
+            "prompt": "4. Observe a tabela abaixo sobre os efeitos da exposi\u00e7\u00e3o a baixas press\u00f5es atmosf\u00e9ricas sobre as concentra\u00e7\u00f5es de gases alveolares e a satura\u00e7\u00e3o de oxig\u00eanio. Interpretando a tabela acima, pode-se afirmar que"
+        },
+        {
+            "answers": [
+                "metano (CH4), contribuindo com a maior parte dos gases de efeito estufa; al\u00e9m disso, \u00e9 considerado um biog\u00e1s, pois pode ser produzido pela digest\u00e3o de animais ou pela decomposi\u00e7\u00e3o de material org\u00e2nico.",
+                "di\u00f3xido de carbono (CO2), contribuindo com cerca de 50% dos gases de efeito estufa, tendo como principais fontes antropog\u00eanicas a queima de combust\u00edveis f\u00f3sseis e o desmatamento.",
+                "enxofre e seus compostos (SOx), que provocam a acidifica\u00e7\u00e3o do vapor de \u00e1gua na atmosfera, causando adensamento das nuvens, o que diminui a libera\u00e7\u00e3o de calor para o espa\u00e7o.",
+                "CFC ou Clorofluorcarbono, que destr\u00f3i a camada de oz\u00f4nio, aumentando a incid\u00eancia de raios solares sobre a superf\u00edcie da terra, provocando o aumento da temperatura.",
+                " aumento das \u00e1reas impermeabilizadas, principalmente nas cidades, impedindo a infiltra\u00e7\u00e3o da \u00e1gua e o resfriamento natural da superf\u00edcie do solo. "
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/4.jpg",
+            "number": 5,
+            "prompt": "5. Sobre o problema ambiental retratado na tirinha, podemos afirmar que seu principal causador \u00e9"
+        },
+        {
+            "answers": [
+                "parasitismo e mutualismo.",
+                "predatismo e comensalismo.",
+                "inquilinismo e competi\u00e7\u00e3o.",
+                "amensalismo e protocoopera\u00e7\u00e3o.",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. O bicudo (Sphenophorus levis) \u00e9 um inseto cujas larvas se desenvolvem no interior do rizoma da cana-de-a\u00e7\u00facar (Saccharum sp.), onde se alimentam dos tecidos do vegetal e podem provocar sua morte. No controle biol\u00f3gico do bicudo, tem sido utilizado com \u00eaxito o nematoide Steinernema brazilense, um verme milim\u00e9trico que abriga em seu intestino bact\u00e9rias do g\u00eanero Xenorhabdus. Ao adentrar a larva do inseto por orif\u00edcios naturais, o verme libera as bact\u00e9rias, as quais digerem os tecidos da larva e disponibilizam, assim, alimento para o verme. As rela\u00e7\u00f5es ecol\u00f3gicas entre bicudo e cana-dea\u00e7\u00facar e entre o nematoide e as bact\u00e9rias podem ser classificadas, respectivamente, como"
+        },
+        {
+            "answers": [
+                "algas",
+                "peixes",
+                "baleias",
+                "camar\u00f5es",
+                "an\u00eamonas"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. \"Bioindicador ou indicador biol\u00f3gico \u00e9 uma esp\u00e9cie ou grupo de esp\u00e9cies que reflete o estado bi\u00f3tico ou abi\u00f3tico de um meio ambiente, o impacto produzido sobre um habitat, comunidade ou ecossistema, entre outras fun\u00e7\u00f5es. A posi\u00e7\u00e3o tr\u00f3fica do organismo bioindicador \u00e9 uma das caracter\u00edsticas mais relevantes quanto ao seu grau de import\u00e2ncia para essa fun\u00e7\u00e3o: quanto mais baixo o n\u00edvel tr\u00f3fico do organismo, maior \u00e9 a sua utilidade, pois pressup\u00f5e-se que toda a cadeia tr\u00f3fica \u00e9 contaminada a partir dele.\" O grupo de organismos mais adequado para essa condi\u00e7\u00e3o, do ponto de vista da sua posi\u00e7\u00e3o na cadeia tr\u00f3fica, \u00e9 constitu\u00eddo por:"
+        },
+        {
+            "answers": [
+                "eutrofiza\u00e7\u00e3o.",
+                "prolifera\u00e7\u00e3o de algas.",
+                "inibi\u00e7\u00e3o da fotoss\u00edntese.",
+                "fotodegrada\u00e7\u00e3o da mat\u00e9ria org\u00e2nica.",
+                "aumento da quantidade de gases dissolvidos."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. A ind\u00fastria t\u00eaxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das \u00e1guas dos rios causado pelo despejo desses corantes pode desencadear uma s\u00e9rie de problemas no ecossistema aqu\u00e1tico.  Considerando esse escurecimento das \u00e1guas, o impacto negativo inicial que ocorre \u00e9 o(a)"
+        },
+        {
+            "answers": [
+                "absor\u00e7\u00e3o do g\u00e1s nitrog\u00eanio pela respira\u00e7\u00e3o.",
+                "ingest\u00e3o de mol\u00e9culas de carboidratos vegetais.",
+                "incorpora\u00e7\u00e3o de nitritos dissolvidos na \u00e1gua consumida.",
+                "transfer\u00eancia da mat\u00e9ria org\u00e2nica pelas cadeias tr\u00f3ficas.",
+                "protocoopera\u00e7\u00e3o com micro-organismos fixadores de nitrog\u00eanio."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. O nitrog\u00eanio \u00e9 essencial para a vida e o maior reservat\u00f3rio global desse elemento, na forma de N2, \u00e9 a atmosfera. Os principais respons\u00e1veis por sua incorpora\u00e7\u00e3o na mat\u00e9ria org\u00e2nica s\u00e3o micro-organismos fixadores de N2 , que ocorrem de forma livre ou simbiontes com plantas. Animais garantem suas necessidades metab\u00f3licas desse elemento pela:"
+        }
+    ]
+}
