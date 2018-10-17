@@ -1,0 +1,180 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "intra-espec\u00edfica do tipo col\u00f4nia.",
+                "intra-espec\u00edfica do tipo sociedade.",
+                "intra-espec\u00edfica do tipo competi\u00e7\u00e3o.",
+                "interespec\u00edfica do tipo protocoopera\u00e7\u00e3o.",
+                "interespec\u00edfica do tipo parasitismo."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. FATEC-SP As diversas esp\u00e9cies que vivem numa regi\u00e3o constituem uma biocenose ou biota. Dentro da biocenose, as intera\u00e7\u00f5es dos seres vivos podem ser de diversos tipos. Quando as intera\u00e7\u00f5es dos organismos se estabelecem entre indiv\u00edduos de esp\u00e9cies diferentes, e os indiv\u00edduos associados se beneficiam mutuamente, embora n\u00e3o seja uma associa\u00e7\u00e3o obrigat\u00f3ria, tem-se um exemplo de intera\u00e7\u00e3o"
+        },
+        {
+            "answers": [
+                " inquilinismo, competi\u00e7\u00e3o e predatismo",
+                "predatismo, competi\u00e7\u00e3o e parasitismo",
+                "parasitismo, competi\u00e7\u00e3o e predatismo",
+                "parasitismo, inquilinismo e predatismo",
+                "parasitismo, predatismo e competi\u00e7\u00e3o"
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 2,
+            "prompt": "2. VUNESP Um gavi\u00e3o, que tem sob suas penas carrapatos e piolhos, traz preso em suas garras um rato, com pulgas em seus p\u00ealos. Entre o rato e as pulgas, entre os carrapatos e os piolhos e entre o gavi\u00e3o e o rato existem rela\u00e7\u00f5es interespec\u00edficas denominadas, respectivamente,"
+        },
+        {
+            "answers": [
+                "parasitismo",
+                "epifitismo",
+                "mutualismo",
+                "predatismo",
+                "inquilinismo"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. F.I. An\u00e1polis-GO As brom\u00e9lias e orqu\u00eddeas que se desenvolvem sobre troncos de \u00e1rvores s\u00e3o considerados seres que apresentam relacionamento do tipo:"
+        },
+        {
+            "answers": [
+                "mutualismo",
+                "protocoopera\u00e7\u00e3o",
+                "parasitismo",
+                "competi\u00e7\u00e3o",
+                "sociedade"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/4.png",
+            "number": 4,
+            "prompt": "4. UFR-RJ Analisando a charge abaixo, podemos classificar a intera\u00e7\u00e3o ecol\u00f3gica entre os dois seres vivos como um caso de:"
+        },
+        {
+            "answers": [
+                "Comensalismo",
+                "Amensalismo",
+                "Competi\u00e7\u00e3o intraespec\u00edfica",
+                "Predatismo",
+                "Mutualismo"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. UEMS O Penicillium notatum libera a penicilina, antibi\u00f3tico que impede o desenvolvimento de certas bact\u00e9rias. Esse \u00e9 um exemplo da rela\u00e7\u00e3o entre seres que recebe o nome de:"
+        },
+        {
+            "answers": [
+                "I est\u00e1 correta.",
+                "II est\u00e1 correta.",
+                "III est\u00e1 correta.",
+                "I e II est\u00e3o correta.",
+                "II e III est\u00e3o correta."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. I. Simbiose, mutualismo e comensalismo s\u00e3o sempre considerados rela\u00e7\u00f5es harm\u00f4nicas. II. Simbiose nem sempre \u00e9 considerada como rela\u00e7\u00e3o harm\u00f4nica. III. Comensalismo nem sempre \u00e9 considerado como rela\u00e7\u00e3o harm\u00f4nica. Dentre as afirma\u00e7\u00f5es acima, apenas:"
+        },
+        {
+            "answers": [
+                "parasitas",
+                "competidoras",
+                "comensais",
+                "amensais",
+                "mutual\u00edsticas "
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/7.png",
+            "number": 7,
+            "prompt": "7. Mackenzie-SP Os gr\u00e1ficos 1 e 2 mostram, respectivamente, o crescimento populacional de duas esp\u00e9cies A e B quando separadas e quando reunidas. As esp\u00e9cies A e B podem ser consideradas:"
+        },
+        {
+            "answers": [
+                "predatismo e parasitismo;",
+                "predatismo e comensalismo;",
+                "comensalismo e competi\u00e7\u00e3o;",
+                "competi\u00e7\u00e3o e predatismo;",
+                "competi\u00e7\u00e3o e parasitismo;"
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. E.M. Santa Casa\/Vit\u00f3ria-ES Tr\u00eas esp\u00e9cies de animais vivem no mesmo ambiente e s\u00e3o denominadas I, II e III. As esp\u00e9cies I e II se alimentam da esp\u00e9cie III. Por uma raz\u00e3o qualquer a esp\u00e9cie III diminuiu muito o n\u00famero de indiv\u00edduos. Em conseq\u00fc\u00eancia houve uma redu\u00e7\u00e3o dos indiv\u00edduos da esp\u00e9cie I e uma diminui\u00e7\u00e3o muito maior nos da esp\u00e9cie II. Podemos afirmar que as prov\u00e1veis rela\u00e7\u00f5es entre as esp\u00e9cies I e II e entre II e III s\u00e3o, respectivamente:"
+        },
+        {
+            "answers": [
+                "desarm\u00f4nica, inter-espec\u00edfica e de preda\u00e7\u00e3o;",
+                "harm\u00f4nica, inter-espec\u00edfica e de parasitismo;",
+                "desarm\u00f4nica, intra-espec\u00edfica e de comensalismo;",
+                "harm\u00f4nica, intra-espec\u00edfica e de preda\u00e7\u00e3o;",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 9,
+            "prompt": "9. UECE A avoante, tamb\u00e9m conhecida como arriba\u00e7\u00e3 (Zenaida auriculata noronha) \u00e9 uma ave migrat\u00f3ria que se desloca no Nordeste, acompanhando o ritmo das chuvas, encontrando-se amea\u00e7ada de extin\u00e7\u00e3o, em decorr\u00eancia da ca\u00e7a indiscriminada. A rela\u00e7\u00e3o do homem com esta ave \u00e9:"
+        },
+        {
+            "answers": [
+                "I, II e III",
+                "I, II e IV",
+                "II, III, IV",
+                "II, III e V",
+                "III, IV e V"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 10,
+            "prompt": "10. UFSE Considere as seguintes associa\u00e7\u00f5es entre os seres vivos: I. parasitismo \/ II. preda\u00e7\u00e3o \/ III. mutualismo \/ IV. competi\u00e7\u00e3o \/ V. protocoopera\u00e7\u00e3o \/ S\u00e3o prejudiciais para os indiv\u00edduos, mas ben\u00e9ficas para as popula\u00e7\u00f5es porque contribuem para que estas se mantenham em equil\u00edbrio com o ambiente, somente:"
+        },
+        {
+            "answers": [
+                "antibiose ou amensalismo",
+                "mimetismo peckhamiano",
+                "col\u00f4nias heteromorfas ou heterot\u00edpicas",
+                "floresta",
+                "col\u00f4nias homomorfas ou homot\u00edpicas"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 11,
+            "prompt": "11. U. Alfenas-MG A mar\u00e9 vermelha \u00e9 um fen\u00f4meno natural registrado nos mais diversos pa\u00edses do mundo e desde os tempos dos antigos eg\u00edpcios. No Brasil, o primeiro caso documento data de 1944, na cidade de Recife e foi chamado de \u201cFebre de Tamandar\u00e9\u201d. A mar\u00e9 vermelha, que ocorre com a prolifera\u00e7\u00e3o excessiva de algas unicelulares planct\u00f4nicas, \u00e9 um exemplo de:"
+        }
+    ]
+}
