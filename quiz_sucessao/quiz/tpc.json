@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "No decorrer de uma sucess\u00e3o ecol\u00f3gica, o n\u00famero de esp\u00e9cies diminui nos diferentes est\u00e1gios de acordo com a disponibilidade dos nichos ecol\u00f3gicos.",
+                "Na sucess\u00e3o de um campo de cultivo abandonado, em uma regi\u00e3o onde havia anteriormente uma floresta, prev\u00ea-se os seguintes passos de recomposi\u00e7\u00e3o: campo \u2192 arbustos \u2192 mata intermedi\u00e1ria \u2192 mata do tipo original.",
+                "A composi\u00e7\u00e3o das esp\u00e9cies tende a manter-se constante ao longo da sucess\u00e3o ecol\u00f3gica.",
+                "Nos est\u00e1gios iniciais de uma sucess\u00e3o, podemos observar que a atividade autotr\u00f3fica \u00e9 maior que a heterotr\u00f3fica, assim, a produ\u00e7\u00e3o bruta (P) \u00e9 menor que a respira\u00e7\u00e3o (R) e a rela\u00e7\u00e3o P e R \u00e9 menor do que 1.",
+                "A sucess\u00e3o ecol\u00f3gica \u00e9 um processo indirecional e imprevis\u00edvel."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. UFMS Analise as afirmativas e assinale a(s) proposi\u00e7\u00e3o(\u00f5es) correta(s)."
+        },
+        {
+            "answers": [
+                "II",
+                "III",
+                "I e III",
+                "II e III",
+                "I"
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 2,
+            "prompt": "2. Considere os seguintes casos: I. Uma rocha nua que, ap\u00f3s muitos anos, est\u00e1 recoberta por l\u00edquens, musgos e gram\u00edneas. \/ II. Um cafezal abandonado que, ap\u00f3s cinco anos, apresenta uma rica diversidade de plantas arbustivas e rasteiras. \/ III. Uma duna que, ap\u00f3s cinco anos, apresenta-se recoberta por gram\u00edneas e plantas rasteiras. \/ Sucess\u00e3o secund\u00e1ria ocorreu somente em:"
+        },
+        {
+            "answers": [
+                "o equil\u00edbrio entre popula\u00e7\u00f5es nativas e invasoras;",
+                "a adapta\u00e7\u00e3o de esp\u00e9cies ex\u00f3ticas;",
+                "a sucess\u00e3o ecol\u00f3gica prim\u00e1ria;",
+                "o est\u00e1gio inicial de uma sucess\u00e3o secund\u00e1ria;",
+                " os movimentos migrat\u00f3rios de esp\u00e9cies colonizadoras."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. UERN \"Normalmente, a vegeta\u00e7\u00e3o pioneira na rocha nua \u00e9 constitu\u00edda de l\u00edquens. Os l\u00edquens conseguem desagregar a superf\u00edcie das rochas pela elimina\u00e7\u00e3o de \u00e1cidos org\u00e2nicos, contribuindo assim para formar uma pequena camada de solo. Dessa maneira, podem se estabelecer pequenas plantas, como musgos e gramas. Aos poucos, a rocha fica recoberta por um tapete de vegeta\u00e7\u00e3o e de solo. Em algumas regi\u00f5es da rocha acumula-se maior quantidade de terra; nelas podem aparecer, gradativamente, arbustos e \u00e1rvores.\" (C\u00c9SAR e SEZAR, p. 278) Os eventos descritos no texto evidenciam a din\u00e2mica dos ecossistemas, exemplificando particularmente:"
+        },
+        {
+            "answers": [
+                "Aumenta o n\u00famero de muta\u00e7\u00f5es que podem ocorrer nas esp\u00e9cies.",
+                " Diminui a transmiss\u00e3o dos caracteres adquiridos entre as esp\u00e9cies.",
+                "Aumentam os efeitos causados pela sele\u00e7\u00e3o natural nas esp\u00e9cies.",
+                "Diminuem as modifica\u00e7\u00f5es evolutivas nas diferentes esp\u00e9cies.",
+                "Aumenta a variabilidade gen\u00e9tica das esp\u00e9cies."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 4,
+            "prompt": "4. U.E. Londrina-PR O que acontece quando uma comunidade se torna est\u00e1vel, atingindo o est\u00e1gio cl\u00edmax?"
+        },
+        {
+            "answers": [
+                "micorrizas",
+                "liquens",
+                "bolores",
+                "bri\u00f3fitas",
+                "protozo\u00e1rios"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. (UFC) S\u00e3o organismos pioneiros na sucess\u00e3o ecol\u00f3gica, que atuam como produtores em lugares in\u00f3spitos e que apresentam os sor\u00e9dios, eficientes estruturas de dispers\u00e3o, formados por algas envolvidas por filamentos de fungos. Essa caracteriza\u00e7\u00e3o refere-se a:"
+        },
+        {
+            "answers": [
+                "comunidade pioneira.",
+                "comunidade prim\u00e1ria.",
+                "comunidade secund\u00e1ria.",
+                "comunidade est\u00e1tica.",
+                "comunidade cl\u00edmax."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. A sucess\u00e3o ecol\u00f3gica ocorre at\u00e9 que se atinja o est\u00e1gio final, onde \u00e9 observada uma comunidade relativamente est\u00e1vel. O produto final do processo de sucess\u00e3o \u00e9 chamado de:"
+        },
+        {
+            "answers": [
+                "com o passar do tempo, ocorrer\u00e1 sucess\u00e3o prim\u00e1ria. ",
+                "ap\u00f3s o estabelecimento dos l\u00edquens, ocorrer\u00e1 a instala\u00e7\u00e3o de novas esp\u00e9cies.",
+                "a comunidade cl\u00edmax ser\u00e1 a primeira a se restabelecer. ",
+                "somente ap\u00f3s o retorno dos animais \u00e9 que as plantas voltar\u00e3o a se instalar na \u00e1rea queimada.",
+                "a coloniza\u00e7\u00e3o por esp\u00e9cies pioneiras facilitar\u00e1 o estabelecimento de outras esp\u00e9cies."
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. UFJF\/2002 As queimadas, comuns na esta\u00e7\u00e3o seca em diversas regi\u00f5es brasileiras, podem provocar a destrui\u00e7\u00e3o da vegeta\u00e7\u00e3o natural. Ap\u00f3s a ocorr\u00eancia de queimadas em uma floresta, \u00e9 CORRETO afirmar que:"
+        },
+        {
+            "answers": [
+                "a comunidade atinge o cl\u00edmax na fase 4, situa\u00e7\u00e3o em que a diversidade de organismos e a biomassa tendem a se manter constantes.",
+                "ocorre maior competi\u00e7\u00e3o na fase 3 que na 4, uma vez que capins e liquens habitam a mesma \u00e1rea.",
+                "ap\u00f3s as fases representadas, ocorrer\u00e1 um est\u00e1gio seguinte, com arbustos de pequeno porte e, depois, o cl\u00edmax, com \u00e1rvores.",
+                "depois do estabelecimento da fase 4 surgir\u00e3o os primeiros animais, dando in\u00edcio \u00e0 sucess\u00e3o zool\u00f3gica.",
+                "na fase 2 temos a sucess\u00e3o secund\u00e1ria uma vez que, na 1, teve in\u00edcio a sucess\u00e3o prim\u00e1ria."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/8.png",
+            "number": 8,
+            "prompt": "8. UNIFE SP\/2008 A figura mostra o processo de ocupa\u00e7\u00e3o do solo em uma \u00e1rea dos pampas ga\u00fachos. Considerando a sucess\u00e3o ecol\u00f3gica, \u00e9 correto afirmar que:"
+        }
+    ]
+}
