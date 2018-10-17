@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "cana-de-a\u00e7\u00facar \u2013 gafanhoto \u2013 sapo",
+                "alga \u2013 zoopl\u00e2ncton \u2013 peixe",
+                "pitangueira \u2013 sabi\u00e1 \u2013 verme parasita",
+                "figueira \u2013 bugio \u2013 carrapato",
+                "eucalipto \u2013 abelha \u2013 ave"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 1,
+            "prompt": "1. UFRS A figura acima apresenta uma pir\u00e2mide invertida de biomassa, onde os valores representam o peso seco\/m2 em cada n\u00edvel tr\u00f3fico. Assinale a alternativa que corresponde \u00e0 cadeia tr\u00f3fica apresentada."
+        },
+        {
+            "answers": [
+                "a quantidade de energia dispon\u00edvel para o n\u00edvel tr\u00f3fico seguinte.",
+                "o n\u00famero de produtores, consumidores prim\u00e1rios e consumidores secund\u00e1rios, respectivamente.",
+                "o tamanho dos produtores, consumidores prim\u00e1rios e consumidores secund\u00e1rios, respectivamente.",
+                "a quantidade de energia perdida, quando se passa de um n\u00edvel tr\u00f3fico para o seguinte.",
+                "a produtividade prim\u00e1ria bruta, a produtividade prim\u00e1ria l\u00edquida e a produtividade secund\u00e1ria l\u00edquida, respectivamente."
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/2.png",
+            "number": 2,
+            "prompt": "2. U.F.S\u00e3o Carlos-SP O diagrama seguinte representa uma pir\u00e2mide de energia. A largura de cada n\u00edvel dessa pir\u00e2mide, quando analisada de baixo para cima, representa"
+        },
+        {
+            "answers": [
+                "I e II",
+                "I e III",
+                "II e I",
+                "II e III",
+                "III e II"
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/3.png",
+            "number": 3,
+            "prompt": "3. Unifor-CE As figuras acima s\u00e3o tr\u00eas tipos de pir\u00e2mides ecol\u00f3gicas. A pir\u00e2mide de n\u00fameros e a pir\u00e2mide de energia que representam a cadeia alimentar: capim \u2192 bois \u2192 carrapatos , s\u00e3o semelhantes, respectivamente, a:"
+        },
+        {
+            "answers": [
+                "\u00e9 necess\u00e1ria maior quantidade de massa no 1\u00ba n\u00edvel tr\u00f3fico da cadeia alimentar para sustentar os outros n\u00edveis;",
+                "ao longo da cadeia alimentar, acumula-se energia;",
+                "corujas gastam mais energia no v\u00f4o do que ratos e texugos para se movimentarem em terra;",
+                " na cadeia alimentar a massa dos ratos \u00e9 igual \u00e0 dos texugos que se alimentam deles;",
+                "a massa de consumidores secund\u00e1rios \u00e9 maior do que a de consumidores prim\u00e1rios."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/4.png",
+            "number": 4,
+            "prompt": "4. Unifor-CE Considere a pir\u00e2mide de massa acima. Com base nas informa\u00e7\u00f5es que ela apresenta, pode-se afirmar que:"
+        },
+        {
+            "answers": [
+                "uma esp\u00e9cie de joaninha e uma esp\u00e9cie de pulg\u00e3o de que ela se alimenta;",
+                "uma esp\u00e9cie de orqu\u00eddea e a esp\u00e9cie de abelha que a poliniza;",
+                "duas esp\u00e9cies de aranhas com diferentes toler\u00e2ncias \u00e0 varia\u00e7\u00e3o de umidade;",
+                "duas esp\u00e9cies de p\u00e1ssaros que se alimentam das mesmas sementes.",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/5.png",
+            "number": 5,
+            "prompt": "5.  UFMG Como conseq\u00fc\u00eancia da competi\u00e7\u00e3o entre elas, duas popula\u00e7\u00f5es apresentam o seguinte perfil de distribui\u00e7\u00e3o no interior de uma floresta: Observe que o tamanho das \u00e1reas I, II e III das pir\u00e2mides representa o n\u00famero de indiv\u00edduos da popula\u00e7\u00e3o e a sua localiza\u00e7\u00e3o nos estratos da floresta. Esse tipo de distribui\u00e7\u00e3o pode ser exemplificado pelas intera\u00e7\u00f5es entre:"
+        },
+        {
+            "answers": [
+                "Por interm\u00e9dio dessa pir\u00e2mide, \u00e9 poss\u00edvel notar o fluxo decrescente de energia.",
+                "O n\u00edvel energ\u00e9tico mais elevado \u00e9 representado pelos produtores.",
+                "As pir\u00e2mides de energia nunca s\u00e3o invertidas.",
+                "Analisando-se esse tipo de pir\u00e2mide, \u00e9 poss\u00edvel perceber que um consumidor prim\u00e1rio obt\u00e9m menos energia do que os consumidores secund\u00e1rios.",
+                ""
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. Sabemos que a pir\u00e2mide de energia \u00e9 usada para representar a quantidade de energia em cada um dos n\u00edveis tr\u00f3ficos presentes em uma cadeia alimentar. A respeito dessa pir\u00e2mide, marque a alternativa INCORRETA."
+        },
+        {
+            "answers": [
+                "produtores",
+                "consumidores prim\u00e1rios",
+                "consumidores secund\u00e1rios",
+                "consumidores terci\u00e1rios",
+                "decompositores"
+            ],
+            "correct": {
+                "index": 4,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. As pir\u00e2mides ecol\u00f3gicas s\u00e3o utilizadas para representar os n\u00edveis tr\u00f3ficos de um ecossistema. Entretanto, nem todos os n\u00edveis aparecem nessa representa\u00e7\u00e3o gr\u00e1fica.  Entre as alternativas a seguir, marque aquela que indica corretamente o n\u00edvel tr\u00f3fico que n\u00e3o aparece em uma pir\u00e2mide ecol\u00f3gica."
+        },
+        {
+            "answers": [
+                "Uma pir\u00e2mide \u00e9 chamada de pir\u00e2mide de n\u00fameros quando informa quantos indiv\u00edduos existem em cada n\u00edvel tr\u00f3fico.",
+                "A pir\u00e2mide de biomassa pode ser invertida.",
+                "Uma pir\u00e2mide de energia nunca poder\u00e1 ser invertida.",
+                "A base de uma pir\u00e2mide nem sempre \u00e9 representada pelo produtor.",
+                "Uma pir\u00e2mide de biomassa representa a quantidade de mat\u00e9ria org\u00e2nica encontrada em cada n\u00edvel tr\u00f3fico."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 8,
+            "prompt": "8. As pir\u00e2mides ecol\u00f3gicas s\u00e3o representa\u00e7\u00f5es gr\u00e1ficas da estrutura tr\u00f3fica de um ecossistema. A respeito dessas pir\u00e2mides, marque a alternativa INCORRETA:"
+        }
+    ]
+}
