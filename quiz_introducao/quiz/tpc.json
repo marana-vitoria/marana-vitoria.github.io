@@ -1,0 +1,116 @@
+{
+    "questions": [
+        {
+            "answers": [
+                "Biocenose \u00e9 o conjunto das diversas esp\u00e9cies que habitam uma mesma regi\u00e3o.",
+                "Bi\u00f3topo \u00e9 o conjunto de componentes f\u00edsicos e qu\u00edmicos do ambiente onde vive uma comunidade biol\u00f3gica.",
+                "Ecossistema \u00e9 o conjunto formado pela comunidade dos seres vivos e os fatores abi\u00f3ticos, em intera\u00e7\u00e3o.",
+                "Nicho ecol\u00f3gico \u00e9 o conjunto de rela\u00e7\u00f5es e atividades pr\u00f3prias de v\u00e1rias esp\u00e9cies.",
+                "H\u00e1bitat \u00e9 o local onde vive determinada esp\u00e9cie."
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 1,
+            "prompt": "1. U.E. Ponta Grossa-PR Sobre conceitos ecol\u00f3gicos, assinale a alternativa ERRADA."
+        },
+        {
+            "answers": [
+                "produtores, consumidores e decompositores s\u00e3o as tr\u00eas categorias de seus componentes abi\u00f3ticos;",
+                "se referem ao conjunto dos componentes exclusivamente abi\u00f3ticos;",
+                "um aqu\u00e1rio, um lago e uma floresta s\u00e3o exemplos de ecossistemas, embora possuam tamanhos diferentes;",
+                "se referem ao conjunto dos componentes exclusivamente bi\u00f3ticos;",
+                "sua extens\u00e3o n\u00e3o \u00e9 percorrida por um fluxo de energia e mat\u00e9ria, n\u00e3o estabelecendo diferentes n\u00edveis tr\u00f3ficos;"
+            ],
+            "correct": {
+                "index": 2,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 2,
+            "prompt": "2. UFMS Quanto aos ecossistemas, \u00e9 correto afirmar que;"
+        },
+        {
+            "answers": [
+                "O local do ecossistema onde vive uma determinada esp\u00e9cie \u00e9 denominado de h\u00e1bitat.",
+                "Popula\u00e7\u00f5es s\u00e3o conjuntos de indiv\u00edduos geneticamente iguais.",
+                " Ecossistema \u00e9 a palavra empregada para indicar o conjunto de popula\u00e7\u00f5es de um ambiente.",
+                "Clone \u00e9 um grupo de indiv\u00edduos da mesma esp\u00e9cie que vivem no mesmo h\u00e1bitat.",
+                "Comunidade \u00e9 a palavra que indica o conjunto de indiv\u00edduos de uma mesma esp\u00e9cie que habitam uma regi\u00e3o."
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 3,
+            "prompt": "3. E.M. Santa Casa\/Vit\u00f3ria-ES Qual a afirmativa correta:"
+        },
+        {
+            "answers": [
+                "n\u00edveis tr\u00f3ficos",
+                " biota ou biocenose",
+                "bi\u00f3topo",
+                "nicho ecol\u00f3gico",
+                "h\u00e1bitat"
+            ],
+            "correct": {
+                "index": 3,
+                "text": ""
+            },
+            "image": ".\/img\/1.png",
+            "number": 4,
+            "prompt": "4. UFPE Na figura acima est\u00e1 ilustrado um importante conceito ecol\u00f3gico que engloba desde a maneira pela qual uma esp\u00e9cie se alimenta at\u00e9 suas condi\u00e7\u00f5es de reprodu\u00e7\u00e3o, h\u00e1bitos, inimigos naturais etc. Este conceito \u00e9 conhecido como:"
+        },
+        {
+            "answers": [
+                "uma comunidade e uma popula\u00e7\u00e3o;",
+                "uma comunidade e seis popula\u00e7\u00f5es;",
+                " duas comunidades e uma popula\u00e7\u00e3o;",
+                "duas comunidades e seis popula\u00e7\u00f5es;",
+                "seis comunidades e seis popula\u00e7\u00f5es."
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 5,
+            "prompt": "5. Unifor-CE Em um aqu\u00e1rio com \u00e1gua do mar foi colocada uma pedra contendo 19 cracas, 4 an\u00eamonas-do-mar, 2 caramujos e 5 talos de algas verdes. Al\u00e9m disso, foram colocados 6 paguros e 3 estrelas-do-mar. Esse aqu\u00e1rio cont\u00e9m:"
+        },
+        {
+            "answers": [
+                "h\u00e1bitat",
+                "nicho ecol\u00f3gico",
+                "sucess\u00e3o ecol\u00f3gica",
+                "rela\u00e7\u00e3o intra-espec\u00edfica",
+                "bioma"
+            ],
+            "correct": {
+                "index": 1,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 6,
+            "prompt": "6. \"No cerrado brasileiro, h\u00e1 \u00e1rvores, que nos meses de chuva, ficam rodeadas por vegeta\u00e7\u00e3o rasteira. Uma dessas \u00e1rvores \u00e9 o barbatim\u00e3o; uma das plantas rasteiras \u00e9 o capim flechinha. O barbatim\u00e3o tem ra\u00edzes longas e ramifica\u00e7\u00f5es, que penetram no solo, absorvendo \u00e1gua dos len\u00e7\u00f3is subterr\u00e2neos. O capim tem ra\u00edzes curtas, muito ramificadas, que n\u00e3o alcan\u00e7am a \u00e1gua subterr\u00e2nea e absorvem apenas a \u00e1gua da chuva, \u00e0 medida que esta se infiltra no solo. Os animais que se alimentam e encontram abrigo no capim s\u00e3o diferentes dos que se alimentam e se abrigam no barbatim\u00e3o.\" O texto acima exemplifica:"
+        },
+        {
+            "answers": [
+                "Influenciamos a maneira como as florestas regulam o ciclo da \u00e1gua...",
+                "O crescimento da ra\u00e7a humana alterou a biosfera...",
+                "...provocamos todos os tipos de extin\u00e7\u00e3o de esp\u00e9cies de plantas e animais.",
+                "Reduzimos a produtividade prim\u00e1ria mundial...",
+                ""
+            ],
+            "correct": {
+                "index": 0,
+                "text": ""
+            },
+            "image": ".\/img\/branco.png",
+            "number": 7,
+            "prompt": "7. \"O crescimento da ra\u00e7a humana alterou a biosfera de v\u00e1rias maneiras. Infelizmente essas mudan\u00e7as geralmente foram para pior. Reduzimos a produtividade prim\u00e1ria mundial, praticamente monopolizamos a cadeia alimentar, provocamos todos os tipos de extin\u00e7\u00e3o de esp\u00e9cies de plantas e animais. Influenciamos a maneira como as florestas regulam o ciclo da \u00e1gua, como as terras \u00famidas filtram os poluentes e como a camada de oz\u00f4nio filtra os raios ultravioletas.\" Do ponto de vista biol\u00f3gico, esse texto cont\u00e9m v\u00e1rias incorre\u00e7\u00f5es quanto aos conceitos de ecologia. Considerando as seguintes afirmativas, todas retiradas do texto, assinale a \u00fanica correta."
+        }
+    ]
+}
