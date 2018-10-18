@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Menu</title>
 <meta charset="UTF-8">
@@ -45,18 +44,24 @@ body, html {height: 100%}
     }
 
     .img{
-      min-width: 80%;
-      top:8%;
+      min-width: 62%;
+      max-width: 70%;
+      top:5%;
     }
 
     .menu {
       width: 90%;
       position: fixed;
-      bottom: 6%;
+      bottom: 5%;
     }
 
     .menu2 {
       font-size: 15px;
+    }
+
+    .video {
+      width: 300px;
+      height: 300px;
     }
 }
 
@@ -68,13 +73,13 @@ body, html {height: 100%}
     }
 
     .img{
-      max-width: 45%;
+      max-width: 40%;
     }
 
     .menu {
       width: 90%;
       position: fixed;
-      bottom: 4%;
+      bottom: 3%;
     }
 
     .menu2 {
@@ -100,11 +105,9 @@ body, html {height: 100%}
       right: 7%;
       bottom: 25%;
     }
-    
 }
-
-
 </style>
+
 <body class="bgimg w3-display-center w3-animate-opacity w3-padding-large w3-xlarge w3-mobile">
   <div class="w3-center w3-jumbo w3-mobile">
     <img src="img/Logo.png" alt="Logo" class="animated zoomInUp img w3-mobile w3-display-topmiddle">
@@ -115,7 +118,7 @@ body, html {height: 100%}
       <button onclick="document.getElementById('video').style.display='block'" class="button w3-button w3-white w3-border w3-border-green w3-text-green  w3-hover-green">Apresentação</button>
       <button onclick="document.getElementById('menu').style.display='block'" class="button w3-button w3-white w3-border w3-border-green w3-text-green  w3-hover-green">Conteúdos</button>
       <button onclick="document.getElementById('quizes').style.display='block'" class="button w3-button w3-white w3-border w3-border-green w3-text-green  w3-hover-green">Quizes</button>
-      <button onclick="document.getElementById('sobre').style.display='block'" class="button w3-button w3-white w3-border w3-border-green w3-text-green  w3-hover-green"> <a href ="sobre.html" style="text-decoration: none">Sobre </a> </button>
+      <button onclick="document.getElementById('sobre').style.display='block'" class="button w3-button w3-white w3-border w3-border-green w3-text-green  w3-hover-green"><a href ="sobre.html" style="text-decoration: none">Sobre </a></button>
     </div>
   </div>
 
@@ -129,10 +132,18 @@ body, html {height: 100%}
       <div class="w3-container" style=" text-align: ">
         <p>Assista este vídeo ;) </p>
         <center>
-          <div>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/qKd6g-9AYZg" 
+          <iframe class="video" width="380" height="380" src="https://www.youtube.com/embed/qKd6g-9AYZg?rel=0&amp;controls=0&amp;showinfo=0" 
           frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
+          <!--<video style="width: 65%" controls poster="img/Logo.png">
+            <source src="_Ecovideo.mp4" type="video/mp4">
+            <source src="_Ecovideo.webm" type="video/webm">
+            <sourceo src="_Ecovideo.ogv" type="video/ogg">
+            <!--<object>
+              <embed src="demo.mp4" type="application/x-shockwave-flash" 
+              allowfullscreen="false" allowscriptaccess="always">     
+            </object>
+            Formato não suportado
+          </video>-->
         </center>
       </div>
     </div>
